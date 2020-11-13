@@ -4,15 +4,15 @@
   <meta charset="utf-8"/>
   <title>Test Pad</title>
   <link rel="stylesheet" href="gen_web.css" type="text/css"/>
-  <!-- <script src=""
-  type="text/javascript"></script> -->
+  <script src="postcodes.js"
+  type="text/javascript"></script>
 </head>
 
 <body>
 <h3>Test Pad</h3>
 </br>
 <div>
-  <input type="text" id="box_fn" name="fnbox" size="35" placeholder="Info">
+  <input type="text" id="box_in" name="fnbox" size="35" placeholder="Info">
   <button id="btn_proc">Get Info</button>
   
   <textarea readonly id="txt_out" rows=20 columns=80></textarea>
@@ -21,6 +21,9 @@
 <script>
 'use strict';
 
+var pcd = postcodeLib;
+
+var box_in = document.getElementById('box_in');
 var btn_proc = document.getElementById('btn_proc');
 var txt_out = document.getElementById('txt_out');
 
@@ -28,25 +31,26 @@ var show_result = function (msg) {
   return function() { txt_out.value = msg; };
 };
 
-var ajax = {};
-ajax.getTxt = function getTxt(url) {
-  return function() {
-    var req = new XMLHttpRequest();
-    req.open('GET', url, true);
-    req.send();
-    req.onreadystatechange = function () {
-      if (req.status == 200) {
-        var rows = req.responseText.split('\n');
-        txt_out.value = rows.slice(0, 4);
-      } else {
-        txt_out.value = `Error ${req.status} ${req.statusText}`;
-      }
-    };
+var btn_handler = function btn() {
+  var path = 'data/codepoint/Data/';
+  var query = box_in.value;
+  var out = txt_out;
+  var url = path + pcd.getPrefix(query) + '.dat';
+  var req = new XMLHttpRequest();
+  req.open('GET', url, true);
+  req.send();
+  req.onreadystatechange = function () {
+    if (req.status == 200) {
+      var rows = req.responseText;
+      out.value = pcd.parseCoordinates(rows).east;
+      out.value = rows.indexOf(query.toUpperCase());
+    } else {
+      out.value = `Error ${req.status} ${req.statusText}`;
+    }
   };
 };
 
-btn_proc.onclick = ajax.getTxt(
-      'data/mot/mot-vehicle-testing-stations.csv');
+btn_proc.onclick = btn_handler;
 
 </script>
 </body>
