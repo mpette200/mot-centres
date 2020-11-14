@@ -4,8 +4,7 @@
   <meta charset="utf-8"/>
   <title>Test Pad</title>
   <link rel="stylesheet" href="gen_web.css" type="text/css"/>
-  <script src="postcodes.js"
-  type="text/javascript"></script>
+  <script src="postcodes.js" type="text/javascript"></script>
 </head>
 
 <body>
@@ -21,33 +20,37 @@
 <script>
 'use strict';
 
-var pcd = postcodeLib;
+var pcd = postcodeData;
+pcd.PATH_P = 'data/codepoint/Data/';
+pcd.PATH_MOT = 'data/mot/mot-vehicle-testing-stations.json';
 
 var box_in = document.getElementById('box_in');
 var btn_proc = document.getElementById('btn_proc');
 var txt_out = document.getElementById('txt_out');
 
-var show_result = function (msg) {
-  return function() { txt_out.value = msg; };
+var showStations = function() {
+  if (pcd.stations != pcd.ERR_LOAD) {
+    console.dir(pcd.stations.slice(0, 20));
+  }
+  else {
+    console.log(pcd.stations);
+  }
+};
+
+var findStations = function() {
+  if (pcd.coords != pcd.ERR_MSG) {
+    txt_out.value = `${pcd.coords.east}, ${pcd.coords.north}`;
+    getMotStations(pcd.coords, showStations);
+  }
+  else {
+    txt_out.value = pcd.coords;
+  }
 };
 
 var btn_handler = function btn() {
-  var path = 'data/codepoint/Data/';
-  var query = box_in.value;
+  var postcode = box_in.value;
   var out = txt_out;
-  var url = path + pcd.getPrefix(query) + '.dat';
-  var req = new XMLHttpRequest();
-  req.open('GET', url, true);
-  req.send();
-  req.onreadystatechange = function () {
-    if (req.status == 200) {
-      var rows = req.responseText;
-      out.value = pcd.parseCoordinates(rows).east;
-      out.value = rows.indexOf(query.toUpperCase());
-    } else {
-      out.value = `Error ${req.status} ${req.statusText}`;
-    }
-  };
+  getCoordinates(postcode, findStations);
 };
 
 btn_proc.onclick = btn_handler;
