@@ -78,6 +78,11 @@ def parse_line(lines, arr_out, errors_out):
         address = join_address(fields[2:6])
         postcode = fields[6]
 
+        # some postcodes are missing spaces
+        # some postcodes have 2 spaces
+        postcode = postcode.replace(' ', '')
+        postcode = postcode[:-3] + ' ' + postcode[-3:]
+
         if postcode not in get_coords:
             errors_out.write(line)
             continue

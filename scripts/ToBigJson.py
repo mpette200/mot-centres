@@ -44,18 +44,20 @@ def parse_line(lines, dict_out):
             # skip because location missing
             continue
 
-        if ' ' not in postcode:
-            # some postcodes are missing spaces
-            postcode = postcode[0:4] + ' ' + postcode[4:]
+        # some postcodes are missing spaces
+        # some postcodes have 2 spaces
+        postcode = postcode.replace(' ', '')
+        postcode = postcode[:-3] + ' ' + postcode[-3:]
 
         dict_out[postcode] = [easting, northing]
 
 
-coords = {}
-for fname in all_files:
-    with open(PATH + fname, newline='') as rows:
-        parse_line(rows, coords)
+if __name__ == '__main__':
+    coords = {}
+    for fname in all_files:
+        with open(PATH + fname, newline='') as rows:
+            parse_line(rows, coords)
 
-output_name = 'all_grid.json'
-with open(PATH + output_name, newline='', mode='w') as f_out:
-    json.dump(coords, f_out, indent=2)
+    output_name = 'all_grid.json'
+    with open(PATH + output_name, newline='', mode='w') as f_out:
+        json.dump(coords, f_out, indent=2)

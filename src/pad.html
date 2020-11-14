@@ -54,6 +54,9 @@ var btn_handler = function btn() {
 };
 
 btn_proc.onclick = btn_handler;
+box_in.onkeydown = function(e) {
+  if (e.code == 'Enter') btn_handler();
+};
 
 </script>
 </body>

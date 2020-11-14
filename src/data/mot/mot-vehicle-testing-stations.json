@@ -1897,6 +1897,20 @@
     "Northing": 204306.0
   },
   {
+    "Name": "KWIK FIT",
+    "Address": "66 - 67 HOLLOWAY HEAD, CITY CENTRE, BIRMINGHAM",
+    "Postcode": "B1 1NG",
+    "Easting": 406735.0,
+    "Northing": 286223.0
+  },
+  {
+    "Name": "HALFORDS AUTOCENTRE",
+    "Address": "113 - 115 HOLLOWAY HEAD, BIRMINGHAM",
+    "Postcode": "B1 1QP",
+    "Easting": 406591.0,
+    "Northing": 286203.0
+  },
+  {
     "Name": "CITROEN BIRMINGHAM",
     "Address": "100 SMALL HEATH HIGHWAY, BIRMINGHAM",
     "Postcode": "B10 0BT",
@@ -3367,6 +3381,20 @@
     "Northing": 277652.0
   },
   {
+    "Name": "MERCEDES BENZ OF BIRMINGHAM CENTRAL",
+    "Address": "LAWLEY MIDDLEWAY, BORDESLEY, BIRMINGHAM",
+    "Postcode": "B4 7XH",
+    "Easting": 408352.0,
+    "Northing": 286956.0
+  },
+  {
+    "Name": "BIRMINGHAM VOLKSWAGEN",
+    "Address": "LAWLEY MIDDLEWAY, BIRMINGHAM",
+    "Postcode": "B4 7XT",
+    "Easting": 408352.0,
+    "Northing": 286956.0
+  },
+  {
     "Name": "KWIK - FIT",
     "Address": "249 WALSALL ROAD, PERRY BARR, BIRMINGHAM",
     "Postcode": "B42 1TY",
@@ -3605,6 +3633,62 @@
     "Northing": 258621.0
   },
   {
+    "Name": "DIRECT MOT CENTRE LTD",
+    "Address": "UNIT 3 OXFORD COURT, OXFORD STREET, DIGBETH, BIRMINGHAM",
+    "Postcode": "B5 5NF",
+    "Easting": 407742.0,
+    "Northing": 286446.0
+  },
+  {
+    "Name": "HURST STREET GARAGE LTD",
+    "Address": "34 COVENTRY STREET, BIRMINGHAM",
+    "Postcode": "B5 5NH",
+    "Easting": 407766.0,
+    "Northing": 286502.0
+  },
+  {
+    "Name": "WHITTAKER FLEET CARE LTD",
+    "Address": "BORDESLEY STREET, BIRMINGHAM",
+    "Postcode": "B5 5PN",
+    "Easting": 407813.0,
+    "Northing": 286757.0
+  },
+  {
+    "Name": "ANDOVER M O T CENTRE",
+    "Address": "UNIT 2, ANDOVER STREET, DIGBETH, BIRMINGHAM",
+    "Postcode": "B5 5RG",
+    "Easting": 407839.0,
+    "Northing": 286949.0
+  },
+  {
+    "Name": "AUTOWAY",
+    "Address": "102 BARFORD STREET, DIGBETH, BIRMINGHAM",
+    "Postcode": "B5 6AH",
+    "Easting": 407485.0,
+    "Northing": 285975.0
+  },
+  {
+    "Name": "CENTRAL AUTO SERVICES",
+    "Address": "UNIT 3, 76 WRENTHAM STREET, BIRMINGHAM",
+    "Postcode": "B5 6QN",
+    "Easting": 407072.0,
+    "Northing": 285871.0
+  },
+  {
+    "Name": "NEWBRIDGE AUTO CENTRE",
+    "Address": "18 KENT STREET, BIRMINGHAM",
+    "Postcode": "B5 6RD",
+    "Easting": 407152.0,
+    "Northing": 286090.0
+  },
+  {
+    "Name": "BRISTOL STREET BIRMINGHAM",
+    "Address": "156 TO 182 BRISTOL STREET, BIRMINGHAM",
+    "Postcode": "B5 7AZ",
+    "Easting": 406909.0,
+    "Northing": 285721.0
+  },
+  {
     "Name": "AVON AUTO CENTRE",
     "Address": "95 HIGH STREET, BIDFORD ON AVON, ALCESTER",
     "Postcode": "B50 4HA",
@@ -3638,6 +3722,125 @@
     "Postcode": "B50 4JN",
     "Easting": 410089.0,
     "Northing": 252774.0
+  },
+  {
+    "Name": "AUTO MOTO",
+    "Address": "UNIT 3 EXPRESSWAY INDUSTRIAL ESTATE, BRACEBRIDGE STREET, ASTON, BIRMINGHAM",
+    "Postcode": "B6 4NE",
+    "Easting": 407574.0,
+    "Northing": 288377.0
+  },
+  {
+    "Name": "VOLKSWAGEN VAN CENTRE BIRMINGHAM",
+    "Address": "ST. STEPHENS STREET, BIRMINGHAM",
+    "Postcode": "B6 4RG",
+    "Easting": 407242.0,
+    "Northing": 288475.0
+  },
+  {
+    "Name": "STRATSTONE HARLEY DAVIDSON BIRMINGHAM",
+    "Address": "WATERLINKS MOTOR VILLAGE, LICHFIELD ROAD, BIRMINGHAM",
+    "Postcode": "B6 5RQ",
+    "Easting": 408147.0,
+    "Northing": 288878.0
+  },
+  {
+    "Name": "SMART MOT AND SERVICE CENTRE",
+    "Address": "21 SANDY LANE, ASTON, ASTON, BIRMINGHAM",
+    "Postcode": "B6 5TP",
+    "Easting": 408582.0,
+    "Northing": 289240.0
+  },
+  {
+    "Name": "MANIR AUTOS",
+    "Address": "UNIT 29, SANDY LANE, ASTON, BIRMINGHAM",
+    "Postcode": "B6 5TP",
+    "Easting": 408582.0,
+    "Northing": 289240.0
+  },
+  {
+    "Name": "WITTON ROAD GARAGE LTD",
+    "Address": "338-358 WITTON ROAD, ASTON, BIRMINGHAM",
+    "Postcode": "B6 6PD",
+    "Easting": 407607.0,
+    "Northing": 290258.0
+  },
+  {
+    "Name": "JAP SPARES LTD",
+    "Address": "230 WITTON LANE, WITTON, BIRMINGHAM",
+    "Postcode": "B6 6QE",
+    "Easting": 407838.0,
+    "Northing": 290445.0
+  },
+  {
+    "Name": "BARRATT VEHICLE MAINTENANCE",
+    "Address": "UNIT 29, BIRCH ROAD EAST, WITTON, BIRMINGHAM",
+    "Postcode": "B6 7DA",
+    "Easting": 408561.0,
+    "Northing": 290878.0
+  },
+  {
+    "Name": "K & R MOTOR SPARES",
+    "Address": "32 BIRCH ROAD EAST, WITTON, BIRMINGHAM",
+    "Postcode": "B6 7DB",
+    "Easting": 408624.0,
+    "Northing": 290865.0
+  },
+  {
+    "Name": "ROOPYAL UNICORN MOT CENTRE",
+    "Address": "3 BIRCH ROAD, WITTON, BIRMINGHAM",
+    "Postcode": "B6 7DD",
+    "Easting": 408357.0,
+    "Northing": 290947.0
+  },
+  {
+    "Name": "A T D MOTOR SERVICES",
+    "Address": "1 BICKFORD ROAD, WITTON, BIRMINGHAM",
+    "Postcode": "B6 7EE",
+    "Easting": 408462.0,
+    "Northing": 290320.0
+  },
+  {
+    "Name": "WESTWOOD MOTORS",
+    "Address": "UNIT 27 WESTWOOD BUSINESS PARK, DULVERTON ROAD, WITTON, BIRMINGHAM",
+    "Postcode": "B6 7EQ",
+    "Easting": 408510.0,
+    "Northing": 290432.0
+  },
+  {
+    "Name": "RIVERSIDE AUTOS",
+    "Address": "ATLAS ESTATE, BROOKVALE ROAD, WITTON, BIRMINGHAM",
+    "Postcode": "B6 7EX",
+    "Easting": 408125.0,
+    "Northing": 290852.0
+  },
+  {
+    "Name": "ATTAIN TRAVEL LTD",
+    "Address": "THE ATLAS TRADING ESTATE, BROOKVALE ROAD, WITTON, BIRMINGHAM",
+    "Postcode": "B6 7EX",
+    "Easting": 408125.0,
+    "Northing": 290852.0
+  },
+  {
+    "Name": "RPM GARAGE",
+    "Address": "MOOR LANE, WITTON, BIRMINGHAM",
+    "Postcode": "B6 7HH",
+    "Easting": 408098.0,
+    "Northing": 291848.0
+  },
+  {
+    "Name": "MIDLAND LINK MOTORS LTD",
+    "Address": "439 443 LICHFIELD ROAD, ASTON, BIRMINGHAM",
+    "Postcode": "B6 7SS",
+    "Easting": 409192.0,
+    "Northing": 289874.0
+  },
+  {
+    "Name": "FLORA MOTOR ENGINEERS",
+    "Address": "337 LICHFIELD ROAD, ASTON, BIRMINGHAM",
+    "Postcode": "B6 7ST",
+    "Easting": 408906.0,
+    "Northing": 289639.0
   },
   {
     "Name": "LICKEY HILLS GARAGE",
@@ -4473,6 +4676,76 @@
     "Northing": 287488.0
   },
   {
+    "Name": "J C MOTORS",
+    "Address": "257 GREAT LISTER STREET, NECHELLS, BIRMINGHAM",
+    "Postcode": "B7 4DB",
+    "Easting": 407988.0,
+    "Northing": 287999.0
+  },
+  {
+    "Name": "A F J LIMITED",
+    "Address": "18 FORSTER STREET, NECHELLS, BIRMINGHAM",
+    "Postcode": "B7 4JD",
+    "Easting": 408167.0,
+    "Northing": 287494.0
+  },
+  {
+    "Name": "THE AUTO WORKSHOP",
+    "Address": "UNIT 10, VAUXHALL TRADING ESTATE, DOLLMAN STREET, BIRMINGHAM",
+    "Postcode": "B7 4RA",
+    "Easting": 408958.0,
+    "Northing": 287830.0
+  },
+  {
+    "Name": "HEARTLANDS FLEET SERVICES LIMITED",
+    "Address": "81 TO 83 CATO STREET, BIRMINGHAM",
+    "Postcode": "B7 4TS",
+    "Easting": 408934.0,
+    "Northing": 288020.0
+  },
+  {
+    "Name": "LOOKERS BIRMINGHAM",
+    "Address": "STAR PARK SOUTH, HEARTLANDS PARKWAY, BIRMINGHAM",
+    "Postcode": "B7 5AH",
+    "Easting": 410009.0,
+    "Northing": 289271.0
+  },
+  {
+    "Name": "MOTORONICS LTD",
+    "Address": "UNIT 16 BOULTBEE BUSINESS UNITS, NECHELLS, BIRMINGHAM",
+    "Postcode": "B7 5AR",
+    "Easting": 409140.0,
+    "Northing": 288536.0
+  },
+  {
+    "Name": "PITSTOP MOTS",
+    "Address": "UNIT 8, CHESTON INDUSTRIAL ESTATE, CHESTON ROAD, BIRMINGHAM",
+    "Postcode": "B7 5EE",
+    "Easting": 408539.0,
+    "Northing": 289058.0
+  },
+  {
+    "Name": "ASTON CROSS ACCIDENT REPAIR CENTRE LTD",
+    "Address": "UNIT 2 CHELSEA TRADING ESTATE, ROCKY LANE, BIRMINGHAM",
+    "Postcode": "B7 5EP",
+    "Easting": 408367.0,
+    "Northing": 288732.0
+  },
+  {
+    "Name": "BRISTOL STREET MOTORS BIRMINGHAM SEAT",
+    "Address": "WATSON ROAD, BIRMINGHAM",
+    "Postcode": "B7 5SB",
+    "Easting": 409841.0,
+    "Northing": 289376.0
+  },
+  {
+    "Name": "M6 COMMERCIALS",
+    "Address": "PREMIER STREET, NECHELLS, BIRMINGHAM",
+    "Postcode": "B7 5TQ",
+    "Easting": 409637.0,
+    "Northing": 289838.0
+  },
+  {
     "Name": "THE LODGE TYRE COMPANY LTD",
     "Address": "125 GREAT BRIDGE STREET, WEST BROMWICH",
     "Postcode": "B70 0DA",
@@ -5089,6 +5362,90 @@
     "Northing": 305339.0
   },
   {
+    "Name": "KNS ADDERLEY MOT",
+    "Address": "215 ADDERLEY ROAD, SALTLEY, BIRMINGHAM",
+    "Postcode": "B8 1AN",
+    "Easting": 409416.0,
+    "Northing": 287651.0
+  },
+  {
+    "Name": "AMSONS AUTO SERVICES",
+    "Address": "UNIT 3, BORDESLEY TRADING ESTATE, BORDESLEY GREEN, BIRMINGHAM",
+    "Postcode": "B8 1BZ",
+    "Easting": 409916.0,
+    "Northing": 287347.0
+  },
+  {
+    "Name": "L.H. VALE-ONSLOW (MOTORS) LIMITED",
+    "Address": "UNIT 12 BORDESLEY GREEN TRADING ESTATE, BORDESLEY GREEN ROAD, BIRMINGHAM",
+    "Postcode": "B8 1BZ",
+    "Easting": 409916.0,
+    "Northing": 287347.0
+  },
+  {
+    "Name": "GR AUTOS LIMITED",
+    "Address": "190 WASHWOOD HEATH ROAD, SALTLEY, BIRMINGHAM",
+    "Postcode": "B8 1RQ",
+    "Easting": 410033.0,
+    "Northing": 288612.0
+  },
+  {
+    "Name": "AUTOPOINT BIRMINGHAM LTD",
+    "Address": "865 ALUM ROCK ROAD, BIRMINGHAM",
+    "Postcode": "B8 2AG",
+    "Easting": 411825.0,
+    "Northing": 288006.0
+  },
+  {
+    "Name": "WARD END MOT CENTRE",
+    "Address": "37 ST MARGARETS ROAD, WARD END, BIRMINGHAM",
+    "Postcode": "B8 2BB",
+    "Easting": 411434.0,
+    "Northing": 288593.0
+  },
+  {
+    "Name": "S & D TYRE SERVICES LIMITED",
+    "Address": "263 BROMFORD LANE, WARD END, BIRMINGHAM",
+    "Postcode": "B8 2SG",
+    "Easting": 411555.0,
+    "Northing": 289520.0
+  },
+  {
+    "Name": "THE MECHANIC",
+    "Address": "186B DREWS LANE, BIRMINGHAM",
+    "Postcode": "B8 2SL",
+    "Easting": 411530.0,
+    "Northing": 289308.0
+  },
+  {
+    "Name": "B M C SPECIALISTS",
+    "Address": "868 ALUM ROCK ROAD, WARD END, BIRMINGHAM",
+    "Postcode": "B8 2TY",
+    "Easting": 411869.0,
+    "Northing": 288061.0
+  },
+  {
+    "Name": "DIRECT MOT CENTRE",
+    "Address": "308 WASHWOOD HEATH ROAD, BIRMINGHAM",
+    "Postcode": "B8 2UL",
+    "Easting": 410565.0,
+    "Northing": 288766.0
+  },
+  {
+    "Name": "FCS AUTO CENTRE",
+    "Address": "154 PARKFIELD ROAD, ALUM ROCK, BIRMINGHAM",
+    "Postcode": "B8 3AY",
+    "Easting": 410448.0,
+    "Northing": 287531.0
+  },
+  {
+    "Name": "HIGHFIELD MOT SERVICES",
+    "Address": "UNIT 4A, 10 HIGHFIELD ROAD, SALTLEY, BIRMINGHAM",
+    "Postcode": "B8 3QX",
+    "Easting": 410191.0,
+    "Northing": 287962.0
+  },
+  {
     "Name": "PITTBULL CHOPPERS",
     "Address": "THE FORGE, BIRMINGHAM ROAD, MAPPLEBOROUGH GREEN",
     "Postcode": "B80 7DE",
@@ -5115,6 +5472,160 @@
     "Postcode": "B80 7NW",
     "Easting": 407439.0,
     "Northing": 263384.0
+  },
+  {
+    "Name": "FRONTIER MOT CENTRE LIMITED",
+    "Address": "127 HEATH MILL LANE, DIGBETH, BIRMINGHAM",
+    "Postcode": "B9 4AX",
+    "Easting": 408178.0,
+    "Northing": 286571.0
+  },
+  {
+    "Name": "CITY OF BIRMINGHAM ENVIRONMENTAL SERVICES",
+    "Address": "MONTAGUE STREET DEPOT, BORDESLEY, BIRMINGHAM",
+    "Postcode": "B9 4BA",
+    "Easting": 408274.0,
+    "Northing": 286956.0
+  },
+  {
+    "Name": "A AND S CLUTCH CENTRES",
+    "Address": "50A ADDERLEY STREET, DIGBETH, BIRMINGHAM",
+    "Postcode": "B9 4ED",
+    "Easting": 408302.0,
+    "Northing": 286317.0
+  },
+  {
+    "Name": "BIRMINGHAM MOT CENTRE",
+    "Address": "2 TO 8 WESTLEY STREET, DIGBETH, BIRMINGHAM",
+    "Postcode": "B9 4ER",
+    "Easting": 408453.0,
+    "Northing": 286636.0
+  },
+  {
+    "Name": "ST ANDREW MOT STATION",
+    "Address": "REAR OF PHOENIX WHARF, BOLTON STREET, PLEASE NOTE ENTRANCE IN ST ANDREWS STREET, BIRMINGHAM",
+    "Postcode": "B9 4HH",
+    "Easting": 408614.0,
+    "Northing": 286666.0
+  },
+  {
+    "Name": "ASH MOTOR SERVICE",
+    "Address": "73 WATERY LANE, BORDESLEY, BIRMINGHAM",
+    "Postcode": "B9 4HN",
+    "Easting": 408553.0,
+    "Northing": 286453.0
+  },
+  {
+    "Name": "MOTOR TECHNICS",
+    "Address": "5 CENTURY PARK, GARRISON LANE, BORDESLEY, BIRMINGHAM",
+    "Postcode": "B9 4NZ",
+    "Easting": 409406.0,
+    "Northing": 286656.0
+  },
+  {
+    "Name": "BORDESLEY GREEN AUTO'S",
+    "Address": "UNIT 2, 248 BORDESLEY GREEN, BIRMINGHAM",
+    "Postcode": "B9 4SU",
+    "Easting": 410042.0,
+    "Northing": 286608.0
+  },
+  {
+    "Name": "G T AUTOS",
+    "Address": "UNIT 9 CHERRYWOOD INDUSTRIAL ESTATE, BORDESLEY GREEN ROAD, BORDESLEY GREEN, BIRMINGHAM",
+    "Postcode": "B9 4TL",
+    "Easting": 409830.0,
+    "Northing": 287016.0
+  },
+  {
+    "Name": "PITBULL MOTORCYCLES LIMITED",
+    "Address": "UNIT 11 ALPHA WAY, BIZSPACE BUSINESS PARK, 87A BORDESLEY GREEN ROAD, BIRMINGHAM",
+    "Postcode": "B9 4TR",
+    "Easting": 409786.0,
+    "Northing": 286713.0
+  },
+  {
+    "Name": "AA BIRMINGHAM MOTS CENTRE LIMITED",
+    "Address": "UNIT 2 BANGOR ROAD, BORDESLEY GREEN, BIRMINGHAM",
+    "Postcode": "B9 4TX",
+    "Easting": 409575.0,
+    "Northing": 286524.0
+  },
+  {
+    "Name": "IN AND FIX AUTOS",
+    "Address": "UNIT 1, BANGOR ROAD, BORDESLEY GREEN, BIRMINGHAM",
+    "Postcode": "B9 4TX",
+    "Easting": 409575.0,
+    "Northing": 286524.0
+  },
+  {
+    "Name": "VP MOTORS",
+    "Address": "UNIT 6, 14 CHERRYWOOD ROAD, BORDESLEY GREEN, BIRMINGHAM",
+    "Postcode": "B9 4UD",
+    "Easting": 409903.0,
+    "Northing": 286641.0
+  },
+  {
+    "Name": "FRONTIER VOLKSWORKS LIMITED",
+    "Address": "52 TO 54 CHERRYWOOD ROAD, BORDESLEY GREEN, BIRMINGHAM",
+    "Postcode": "B9 4UD",
+    "Easting": 409903.0,
+    "Northing": 286641.0
+  },
+  {
+    "Name": "CHERRYWOOD AUTOS",
+    "Address": "110 CHERRYWOOD ROAD, BORDESLEY GREEN, BIRMINGHAM",
+    "Postcode": "B9 4UH",
+    "Easting": 410027.0,
+    "Northing": 286770.0
+  },
+  {
+    "Name": "BURBRIDGE AUTO CENTRE",
+    "Address": "UNIT 3, BURBRIDGE ROAD, BORDESLEY GREEN, BIRMINGHAM",
+    "Postcode": "B9 4US",
+    "Easting": 409975.0,
+    "Northing": 287007.0
+  },
+  {
+    "Name": "DIRECT MOT",
+    "Address": "UNIT 1, HAWKES INDUSTRIAL ESTATE, LITTLE GREEN LANE, BIRMINGHAM",
+    "Postcode": "B9 5AY",
+    "Easting": 409373.0,
+    "Northing": 286178.0
+  },
+  {
+    "Name": "ATLAS GARAGE 1984",
+    "Address": "229 TO 233 GREEN LANE, SMALL HEATH, BIRMINGHAM",
+    "Postcode": "B9 5BL",
+    "Easting": 409906.0,
+    "Northing": 286185.0
+  },
+  {
+    "Name": "SYLHET MOTORS",
+    "Address": "UNIT 1 53 HUMPAGE ROAD, BORDESLEY GREEN, BIRMINGHAM",
+    "Postcode": "B9 5HW",
+    "Easting": 410173.0,
+    "Northing": 286659.0
+  },
+  {
+    "Name": "S M AUTO CENTRE LIMITED",
+    "Address": "UNIT 3, GREEN LANE INDUSTRIAL ESTATE, GREEN LANE, BIRMINGHAM",
+    "Postcode": "B9 5QP",
+    "Easting": 410417.0,
+    "Northing": 286390.0
+  },
+  {
+    "Name": "GREEN AUTO MANAGEMENT LTD",
+    "Address": "UNIT C 301 PORTERS WAY, BORDESLEY GREEN, BIRMINGHAM",
+    "Postcode": "B9 5RR",
+    "Easting": 410407.0,
+    "Northing": 286652.0
+  },
+  {
+    "Name": "RITZ GARAGE",
+    "Address": "R/O 211 BORDESLEY GREEN EAST, BORDESLEY GREEN, STECHFORD, BIRMINGHAM",
+    "Postcode": "B9 5SP",
+    "Easting": 412130.0,
+    "Northing": 286841.0
   },
   {
     "Name": "RENAULT SOLIHULL",
@@ -42385,6 +42896,69 @@
     "Northing": 284441.0
   },
   {
+    "Name": "KPM AUTOMOTIVE LTD",
+    "Address": "164-169 LUKIN STREET, LONDON",
+    "Postcode": "E1 0BN",
+    "Easting": 535272.0,
+    "Northing": 181032.0
+  },
+  {
+    "Name": "BATMANS GARAGE",
+    "Address": "220-222 CAROLINE STREET, LONDON",
+    "Postcode": "E1 0JQ",
+    "Easting": 535882.0,
+    "Northing": 181061.0
+  },
+  {
+    "Name": "EASTEND MOT",
+    "Address": "193 BARNARDO STREET, LONDON",
+    "Postcode": "E1 0LL",
+    "Easting": 535589.0,
+    "Northing": 181045.0
+  },
+  {
+    "Name": "KRUUZ MOT",
+    "Address": "8 CHRISTIAN STREET, LONDON",
+    "Postcode": "E1 1SE",
+    "Easting": 534415.0,
+    "Northing": 180973.0
+  },
+  {
+    "Name": "MANSELL STREET GARAGE LIMITED",
+    "Address": "145-147 CANNON STREET ROAD, STEPNEY, LONDON",
+    "Postcode": "E1 2LX",
+    "Easting": 534592.0,
+    "Northing": 181162.0
+  },
+  {
+    "Name": "BABLEY AUTOS",
+    "Address": "134 CHAPMAN STREET, LONDON",
+    "Postcode": "E1 2PH",
+    "Easting": 534713.0,
+    "Northing": 180977.0
+  },
+  {
+    "Name": "E ONE MOT CENTRE",
+    "Address": "123 CHAPMAN STREET, LONDON",
+    "Postcode": "E1 2PH",
+    "Easting": 534713.0,
+    "Northing": 180977.0
+  },
+  {
+    "Name": "P & A MARS MOTORS LTD",
+    "Address": "189 BANCROFT ROAD, LONDON",
+    "Postcode": "E1 4ET",
+    "Easting": 535480.0,
+    "Northing": 182546.0
+  },
+  {
+    "Name": "BANCROFT GARAGE",
+    "Address": "193 BANCROFT ROAD, LONDON",
+    "Postcode": "E1 4ET",
+    "Easting": 535480.0,
+    "Northing": 182546.0
+  },
+  {
     "Name": "MR CLUTCH AUTOCENTRES LIMITED",
     "Address": "445-451 HIGH ROAD, LEYTON",
     "Postcode": "E10 5EL",
@@ -42894,6 +43468,433 @@
     "Postcode": "E1W 2BF",
     "Easting": 534540.0,
     "Northing": 180698.0
+  },
+  {
+    "Name": "KWIK - FIT",
+    "Address": "387 BETHNAL GREEN ROAD, BETHNAL, LONDON",
+    "Postcode": "E2 0AN",
+    "Easting": 534708.0,
+    "Northing": 182701.0
+  },
+  {
+    "Name": "GLOBETOWN MOT CENTRE LTD",
+    "Address": "2 PORTMAN PLACE, GLOBE ROAD, LONDON",
+    "Postcode": "E2 0LQ",
+    "Easting": 535357.0,
+    "Northing": 182531.0
+  },
+  {
+    "Name": "A1 CAR CARE CENTRE LTD",
+    "Address": "207-211 COVENTRY ROAD, OFF THREE COLTS LANE, BETHNAL GREEN, LONDON",
+    "Postcode": "E2 6JN",
+    "Easting": 534892.0,
+    "Northing": 182402.0
+  },
+  {
+    "Name": "TAKAMO AUTO CLINIC",
+    "Address": "25 COVENTRY ROAD, THREE COLTS LANE, LONDON",
+    "Postcode": "E2 6JN",
+    "Easting": 534892.0,
+    "Northing": 182402.0
+  },
+  {
+    "Name": "COBORN GARAGE LTD",
+    "Address": "206 THREE COLTS LANE, BETHNAL GREEN, LONDON",
+    "Postcode": "E2 6JN",
+    "Easting": 534892.0,
+    "Northing": 182402.0
+  },
+  {
+    "Name": "M BROTHERS MOT & AUTO SERVICES LTD",
+    "Address": "UNIT 352, THE ARCHES, LABURNUM STREET, LONDON",
+    "Postcode": "E2 8BB",
+    "Easting": 533553.0,
+    "Northing": 183547.0
+  },
+  {
+    "Name": "HILMI'S MOT CENTRE LTD",
+    "Address": "2A VYNER STREET, LONDON",
+    "Postcode": "E2 9DG",
+    "Easting": 534914.0,
+    "Northing": 183502.0
+  },
+  {
+    "Name": "E-TWO MOT CENTRE",
+    "Address": "288A CLARE STREET, LONDON",
+    "Postcode": "E2 9HA",
+    "Easting": 534864.0,
+    "Northing": 183467.0
+  },
+  {
+    "Name": "BATT BROS MOTS & SERVICING LTD",
+    "Address": "293 ARCH, CAMBRIDGE HEATH ROAD, LONDON",
+    "Postcode": "E2 9HA",
+    "Easting": 534864.0,
+    "Northing": 183467.0
+  },
+  {
+    "Name": "BRAVOS MOTORCYCLES LTD",
+    "Address": "RAILWAY ARCH 296, CLARE STREET, BETHNAL GREEN, LONDON",
+    "Postcode": "E2 9HD",
+    "Easting": 534835.0,
+    "Northing": 183219.0
+  },
+  {
+    "Name": "H & H MOTORS",
+    "Address": "281 CLARE STREET, BETHNAL GREEN, LONDON",
+    "Postcode": "E2 9HD",
+    "Easting": 534835.0,
+    "Northing": 183219.0
+  },
+  {
+    "Name": "AUTOCARE MOT CENTRE",
+    "Address": "279 POYSER STREET, LONDON",
+    "Postcode": "E2 9RF",
+    "Easting": 538963.0,
+    "Northing": 181489.0
+  },
+  {
+    "Name": "RIVERSIDE MOTORCYCLES",
+    "Address": "UNIT 12, RIVERBANK BUSINESS PARK, DYEHOUSE LANE, LONDON",
+    "Postcode": "E3 2TB",
+    "Easting": 537333.0,
+    "Northing": 183570.0
+  },
+  {
+    "Name": "DOCKLANDS VEHICLE CENTRE",
+    "Address": "UNIT 9B, EMPSON STREET, BOW",
+    "Postcode": "E3 3LT",
+    "Easting": 537992.0,
+    "Northing": 182193.0
+  },
+  {
+    "Name": "E3 MOTORING",
+    "Address": "126 BOW COMMON LANE, LONDON",
+    "Postcode": "E3 4BH",
+    "Easting": 536886.0,
+    "Northing": 182077.0
+  },
+  {
+    "Name": "S & S MOTORS",
+    "Address": "ARCH 14, CAMPBELL ROAD, BOW",
+    "Postcode": "E3 4DT",
+    "Easting": 537351.0,
+    "Northing": 182744.0
+  },
+  {
+    "Name": "NORTH CITY AUTOS CHINGFORD LTD",
+    "Address": "174-180 STATION ROAD, CHINGFORD, LONDON",
+    "Postcode": "E4 6AN",
+    "Easting": 539202.0,
+    "Northing": 194700.0
+  },
+  {
+    "Name": "SOUTH EAST CORVETTE CENTRE",
+    "Address": "190 LARKSHALL ROAD, CHINGFORD, LONDON",
+    "Postcode": "E4 6NP",
+    "Easting": 538573.0,
+    "Northing": 192768.0
+  },
+  {
+    "Name": "BUZBYS GARAGE",
+    "Address": "45 SALISBURY ROAD, CHINGFORD, LONDON",
+    "Postcode": "E4 6TA",
+    "Easting": 537464.0,
+    "Northing": 193081.0
+  },
+  {
+    "Name": "DENNIS GOLDING MOTOR ENGINEERS LTD",
+    "Address": "3-5 GARFIELD ROAD, CHINGFORD, LONDON",
+    "Postcode": "E4 7DG",
+    "Easting": 538999.0,
+    "Northing": 194428.0
+  },
+  {
+    "Name": "GROVE GARAGE CHINGFORD LTD",
+    "Address": "MARSHFIELD SERVICE STATION, SEWARDSTONE ROAD, CHINGFORD, LONDON",
+    "Postcode": "E4 7RF",
+    "Easting": 538073.0,
+    "Northing": 197310.0
+  },
+  {
+    "Name": "IPB MOTOR SERVICES",
+    "Address": "SEWARDSTONE HALL FARM, SEWARDSTONE ROAD, CHINGFORD",
+    "Postcode": "E4 7RH",
+    "Easting": 538312.0,
+    "Northing": 198165.0
+  },
+  {
+    "Name": "DAVE NEWMAN",
+    "Address": "UNIT 13, CHINGFORD INDUSTRIAL CENTRE, CHINGFORD, LONDON",
+    "Postcode": "E4 8DJ",
+    "Easting": 536470.0,
+    "Northing": 192380.0
+  },
+  {
+    "Name": "CHINGFORD AUDI",
+    "Address": "CORK TREE WAY, HALL LANE, CHINGFORD, LONDON",
+    "Postcode": "E4 8JA",
+    "Easting": 536343.0,
+    "Northing": 192317.0
+  },
+  {
+    "Name": "FAIRWAY MOTORS",
+    "Address": "71-79 CHINGFORD MOUNT ROAD, CHINGFORD, LONDON",
+    "Postcode": "E4 8LU",
+    "Easting": 537319.0,
+    "Northing": 192036.0
+  },
+  {
+    "Name": "BRISTOL STREET MOTORS",
+    "Address": "3 SHADBOLT AVENUE, CHINGFORD",
+    "Postcode": "E4 8PZ",
+    "Easting": 536371.0,
+    "Northing": 191952.0
+  },
+  {
+    "Name": "MR CLUTCH AUTOCENTRES LTD",
+    "Address": "UNIT 3, DEACON TRADING ESTATE, CABINET WAY, CHINGFORD",
+    "Postcode": "E4 8QF",
+    "Easting": 536503.0,
+    "Northing": 191966.0
+  },
+  {
+    "Name": "ROBINS & DAY CHINGFORD",
+    "Address": "455 CHINGFORD ROAD, WALTHAMSTOW",
+    "Postcode": "E4 8SP",
+    "Easting": 537416.0,
+    "Northing": 191163.0
+  },
+  {
+    "Name": "BROOKE MOTORS",
+    "Address": "51A KENNINGHALL ROAD, CLAPTON, LONDON",
+    "Postcode": "E5 8BS",
+    "Easting": 534585.0,
+    "Northing": 186189.0
+  },
+  {
+    "Name": "MD MOTORS",
+    "Address": "1A GUNTON ROAD, CLAPTON, LONDON",
+    "Postcode": "E5 9JT",
+    "Easting": 534934.0,
+    "Northing": 186547.0
+  },
+  {
+    "Name": "R & A AUTOS & MOT CENTRE LTD",
+    "Address": "BODYWORKS, 163-165 PLASHET GROVE, EAST HAM, LONDON",
+    "Postcode": "E6 1AA",
+    "Easting": 541600.0,
+    "Northing": 184048.0
+  },
+  {
+    "Name": "ST STEPHENS GARAGE",
+    "Address": "133 ST STEPHENS ROAD, EAST HAM, LONDON",
+    "Postcode": "E6 1AT",
+    "Easting": 541508.0,
+    "Northing": 184193.0
+  },
+  {
+    "Name": "LCL MOTORS LTD",
+    "Address": "51A MILTON AVENUE, EAST HAM",
+    "Postcode": "E6 1BG",
+    "Easting": 542219.0,
+    "Northing": 184229.0
+  },
+  {
+    "Name": "HOWARD POWELL MOTORCYCLES LTD",
+    "Address": "249 BARKING ROAD, EAST HAM, LONDON",
+    "Postcode": "E6 1LB",
+    "Easting": 542244.0,
+    "Northing": 183489.0
+  },
+  {
+    "Name": "MOTORCARE CENTRE",
+    "Address": "220 BARKING ROAD, EAST HAM",
+    "Postcode": "E6 3BB",
+    "Easting": 542195.0,
+    "Northing": 183425.0
+  },
+  {
+    "Name": "HI Q",
+    "Address": "221 HIGH STREET SOUTH, EAST HAM, LONDON",
+    "Postcode": "E6 3PD",
+    "Easting": 542833.0,
+    "Northing": 182645.0
+  },
+  {
+    "Name": "LONDON BOROUGH OF NEWHAM",
+    "Address": "CENTRAL TRANSPORT WORKSHOP, FOLKESTONE ROAD, EAST HAM, LONDON",
+    "Postcode": "E6 6BX",
+    "Easting": 543374.0,
+    "Northing": 183057.0
+  },
+  {
+    "Name": "EVEAN RECOVERY LIMITED",
+    "Address": "6A FLANDERS ROAD, EAST HAM, LONDON",
+    "Postcode": "E6 6DU",
+    "Easting": 542866.0,
+    "Northing": 183061.0
+  },
+  {
+    "Name": "KHALSA AUTOMOBILE ENGINEERING LTD",
+    "Address": "118 WELLINGTON ROAD, EAST HAM, LONDON",
+    "Postcode": "E6 6EA",
+    "Easting": 542905.0,
+    "Northing": 183219.0
+  },
+  {
+    "Name": "PORSCHE CENTRE EAST LONDON",
+    "Address": "101 WOOLWICH MANOR WAY, BECKTON",
+    "Postcode": "E6 6EY",
+    "Easting": 543772.0,
+    "Northing": 180989.0
+  },
+  {
+    "Name": "BC AUTOS",
+    "Address": "364 WINCHELSEA ROAD, FOREST GATE, LONDON",
+    "Postcode": "E7 0AQ",
+    "Easting": 540061.0,
+    "Northing": 185990.0
+  },
+  {
+    "Name": "CLINTON GARAGE",
+    "Address": "2A CLINTON ROAD, FOREST GATE, LONDON",
+    "Postcode": "E7 0HD",
+    "Easting": 540362.0,
+    "Northing": 185634.0
+  },
+  {
+    "Name": "AUTOMEK MOTORS LTD",
+    "Address": "ARCH 393, 14 CLINTON ROAD, LONDON",
+    "Postcode": "E7 0HD",
+    "Easting": 540362.0,
+    "Northing": 185634.0
+  },
+  {
+    "Name": "D & A AUTOS",
+    "Address": "426-427 ARCHES, AVENUE ROAD, FOREST GATE",
+    "Postcode": "E7 0LB",
+    "Easting": 540762.0,
+    "Northing": 185578.0
+  },
+  {
+    "Name": "EVEREST MOTORS LONDON LTD",
+    "Address": "511-513 ROMFORD ROAD, FOREST GATE, LONDON",
+    "Postcode": "E7 8AD",
+    "Easting": 541344.0,
+    "Northing": 185200.0
+  },
+  {
+    "Name": "M R MOTOR SERVICES LTD",
+    "Address": "418 ROMFORD ROAD, FOREST GATE, LONDON",
+    "Postcode": "E7 8DF",
+    "Easting": 541179.0,
+    "Northing": 185109.0
+  },
+  {
+    "Name": "A1 MOT TYRES AND SERVICE CENTRE",
+    "Address": "104A SPROWSTON MEWS, FOREST GATE",
+    "Postcode": "E7 9AE",
+    "Easting": 540301.0,
+    "Northing": 185006.0
+  },
+  {
+    "Name": "R K MOTORS",
+    "Address": "104 SPROWSTON MEWS, FOREST GATE",
+    "Postcode": "E7 9AE",
+    "Easting": 540301.0,
+    "Northing": 185006.0
+  },
+  {
+    "Name": "ETTY & TYLER LIMITED",
+    "Address": "83 UPTON LANE, FOREST GATE, LONDON",
+    "Postcode": "E7 9PB",
+    "Easting": 540619.0,
+    "Northing": 184635.0
+  },
+  {
+    "Name": "GRANGEWOOD AUTO LTD",
+    "Address": "9 STUKELEY ROAD, FOREST GATE, LONDON",
+    "Postcode": "E7 9QQ",
+    "Easting": 540856.0,
+    "Northing": 184213.0
+  },
+  {
+    "Name": "HACKNEY SERVICE CENTRE LTD",
+    "Address": "ARCH NO 437, 16 MARCON PLACE, HACKNEY, LONDON",
+    "Postcode": "E8 1LP",
+    "Easting": 534563.0,
+    "Northing": 185025.0
+  },
+  {
+    "Name": "ARDE GARAGE",
+    "Address": "ARCH 448 AMHURST ROAD, LONDON",
+    "Postcode": "E8 2AA",
+    "Easting": 534449.0,
+    "Northing": 185302.0
+  },
+  {
+    "Name": "V8 MOTORS",
+    "Address": "20 ANDRE STREET, LONDON",
+    "Postcode": "E8 2AA",
+    "Easting": 534449.0,
+    "Northing": 185302.0
+  },
+  {
+    "Name": "RICHMOND ROAD CAB CENTRE LTD",
+    "Address": "195 RICHMOND ROAD, LONDON",
+    "Postcode": "E8 3NJ",
+    "Easting": 534698.0,
+    "Northing": 184537.0
+  },
+  {
+    "Name": "FAST MOT LTD",
+    "Address": "2-6 LAMB LANE, HACKNEY, LONDON",
+    "Postcode": "E8 3PL",
+    "Easting": 534820.0,
+    "Northing": 184188.0
+  },
+  {
+    "Name": "MAX'S GARAGE",
+    "Address": "164-170 MARE STREET, HACKNEY, LONDON",
+    "Postcode": "E8 3RD",
+    "Easting": 534941.0,
+    "Northing": 184342.0
+  },
+  {
+    "Name": "SHARIF AUTO SERVICES LTD",
+    "Address": "363 - 364 WARBURTON STREET, LONDON",
+    "Postcode": "E8 3RR",
+    "Easting": 534753.0,
+    "Northing": 183958.0
+  },
+  {
+    "Name": "CHUS GARAGE & MOT CENTRE LTD",
+    "Address": "372 HELMSLEY PLACE, HACKNEY, LONDON",
+    "Postcode": "E8 3SB",
+    "Easting": 534722.0,
+    "Northing": 184071.0
+  },
+  {
+    "Name": "MOTODEN MOT",
+    "Address": "505A KINGSLAND ROAD, DALSTON, LONDON",
+    "Postcode": "E8 4AU",
+    "Easting": 533484.0,
+    "Northing": 184499.0
+  },
+  {
+    "Name": "HACKNEY MOT CENTRE",
+    "Address": "144 HOMERTON HIGH STREET, LONDON",
+    "Postcode": "E9 6JA",
+    "Easting": 535615.0,
+    "Northing": 185023.0
+  },
+  {
+    "Name": "TA MOTORS",
+    "Address": "104-106 WELL STREET, HACKNEY, LONDON",
+    "Postcode": "E9 7JA",
+    "Easting": 535301.0,
+    "Northing": 184200.0
   },
   {
     "Name": "CLERKENWELL MOTORS",
@@ -49749,6 +50750,27 @@
     "Northing": 669326.0
   },
   {
+    "Name": "VICTOR DEVINE & CO LTD",
+    "Address": "60 HYDEPARK STREET, FINNIESTON, GLASGOW",
+    "Postcode": "G3 8BW",
+    "Easting": 257707.0,
+    "Northing": 665208.0
+  },
+  {
+    "Name": "ATS EUROMASTER LIMITED",
+    "Address": "192 FINNIESTON STREET, GLASGOW",
+    "Postcode": "G3 8HQ",
+    "Easting": 257270.0,
+    "Northing": 665224.0
+  },
+  {
+    "Name": "CITROEN GLASGOW",
+    "Address": "58-68 FINNIESTON STREET, GLASGOW",
+    "Postcode": "G3 8JR",
+    "Easting": 257331.0,
+    "Northing": 665520.0
+  },
+  {
     "Name": "BROWNES GARAGE",
     "Address": "10/12 GLENDALE STREET, DENNISTOUN, GLASGOW",
     "Postcode": "G31 1NT",
@@ -49964,6 +50986,76 @@
     "Postcode": "G33 4ED",
     "Easting": 266102.0,
     "Northing": 665757.0
+  },
+  {
+    "Name": "DOUGLAS PARK LTD",
+    "Address": "30 PINKSTON ROAD, GLASGOW",
+    "Postcode": "G4 0DD",
+    "Easting": 260150.0,
+    "Northing": 666367.0
+  },
+  {
+    "Name": "MERCEDES BENZ OF GLASGOW",
+    "Address": "135 MILTON STREET, GLASGOW",
+    "Postcode": "G4 0DH",
+    "Easting": 259228.0,
+    "Northing": 666266.0
+  },
+  {
+    "Name": "HENRYS",
+    "Address": "151 KYLE STREET, GLASGOW",
+    "Postcode": "G4 0DS",
+    "Easting": 259592.0,
+    "Northing": 666211.0
+  },
+  {
+    "Name": "SCOTTISH FIRE & RESCUE SERVICE",
+    "Address": "FLEET & EQUIPMENT WORKSHOP, WEST HUB, 52A MAITLAND STREET, GLASGOW",
+    "Postcode": "G4 0HX",
+    "Easting": 258870.0,
+    "Northing": 666200.0
+  },
+  {
+    "Name": "MACKLIN MOTORS",
+    "Address": "144 PORT DUNDAS ROAD, GLASGOW",
+    "Postcode": "G4 0HZ",
+    "Easting": 259008.0,
+    "Northing": 666342.0
+  },
+  {
+    "Name": "ARIF'S AUTOFIX",
+    "Address": "320 PINKSTON ROAD, GLASGOW",
+    "Postcode": "G4 0LP",
+    "Easting": 259670.0,
+    "Northing": 666809.0
+  },
+  {
+    "Name": "PHILIPS GARAGE LTD",
+    "Address": "UNIT 1, 19 MCFARLANE STREET, GLASGOW",
+    "Postcode": "G4 0TL",
+    "Easting": 260122.0,
+    "Northing": 664782.0
+  },
+  {
+    "Name": "Scotts Service Centre",
+    "Address": "40 BARRACK STREET, GLASGOW",
+    "Postcode": "G4 0TZ",
+    "Easting": 260366.0,
+    "Northing": 664859.0
+  },
+  {
+    "Name": "ROCKVILLE AUTO SERVICES",
+    "Address": "69 POSSIL ROAD, GLASGOW",
+    "Postcode": "G4 9SL",
+    "Easting": 258691.0,
+    "Northing": 667095.0
+  },
+  {
+    "Name": "MICKEY OATES MOTORCYCLES",
+    "Address": "19 NORTH CANALBANK STREET, GLASGOW",
+    "Postcode": "G4 9XP",
+    "Easting": 259567.0,
+    "Northing": 666746.0
   },
   {
     "Name": "Voltech Automotive Ltd",
@@ -50328,6 +51420,69 @@
     "Postcode": "G46 8PD",
     "Easting": 254703.0,
     "Northing": 659547.0
+  },
+  {
+    "Name": "SHAWFIELD MOT CENTRE (UK) LTD",
+    "Address": "15 ROSYTH ROAD, GLASGOW",
+    "Postcode": "G5 0YD",
+    "Easting": 260118.0,
+    "Northing": 662634.0
+  },
+  {
+    "Name": "LEXUS GLASGOW",
+    "Address": "100 WEST STREET, GLASGOW",
+    "Postcode": "G5 8AW",
+    "Easting": 258287.0,
+    "Northing": 664543.0
+  },
+  {
+    "Name": "MI GARAGE",
+    "Address": "140 SALKELD STREET, GLASGOW",
+    "Postcode": "G5 8HE",
+    "Easting": 258444.0,
+    "Northing": 664122.0
+  },
+  {
+    "Name": "GORBALS MOT TESTING STATION LTD",
+    "Address": "UNIT 3/4, 61 KILBIRNIE STREET, GLASGOW",
+    "Postcode": "G5 8JD",
+    "Easting": 258331.0,
+    "Northing": 663817.0
+  },
+  {
+    "Name": "ARNOLD CLARK",
+    "Address": "149 KILBIRNIE STREET, GLASGOW",
+    "Postcode": "G5 8JH",
+    "Easting": 258048.0,
+    "Northing": 663857.0
+  },
+  {
+    "Name": "EHSAN MOTORS LTD",
+    "Address": "19 SCOTLAND STREET, GLASGOW",
+    "Postcode": "G5 8NB",
+    "Easting": 258114.0,
+    "Northing": 664147.0
+  },
+  {
+    "Name": "Tradeston Performance",
+    "Address": "23 Kilbirnie Place, Glasgow",
+    "Postcode": "G5 8QR",
+    "Easting": 258092.0,
+    "Northing": 663929.0
+  },
+  {
+    "Name": "SCHONEVILLE MOTOR ENGINEERS LTD",
+    "Address": "1 KILBIRNIE PLACE, TRADESTON INDUSTRIAL ESTATE, GLASGOW",
+    "Postcode": "G5 8QR",
+    "Easting": 258092.0,
+    "Northing": 663929.0
+  },
+  {
+    "Name": "BEST FIT TYRE & SERVICE CENTRE",
+    "Address": "41 GOUROCK STREET, GLASGOW",
+    "Postcode": "G5 9RY",
+    "Easting": 258442.0,
+    "Northing": 663571.0
   },
   {
     "Name": "LANGTREE MOTORS MOT CENTRE",
@@ -67466,6 +68621,27 @@
     "Northing": 703058.0
   },
   {
+    "Name": "STANLEY AUTO ENGINEERS",
+    "Address": "30 TO 40 JAMAICA STREET, LIVERPOOL",
+    "Postcode": "L1 0AF",
+    "Easting": 334771.0,
+    "Northing": 389504.0
+  },
+  {
+    "Name": "PERFORMANCE & ROAD TYRES",
+    "Address": "48-50 JORDAN STREET, LIVERPOOL",
+    "Postcode": "L1 0BP",
+    "Easting": 334948.0,
+    "Northing": 389239.0
+  },
+  {
+    "Name": "PARR STREET GARAGE LTD",
+    "Address": "31 PARR STREET, LIVERPOOL",
+    "Postcode": "L1 4JN",
+    "Easting": 334852.0,
+    "Northing": 389932.0
+  },
+  {
     "Name": "MILL LANE GARAGE",
     "Address": "16 MILL LANE, WEST DERBY, LIVERPOOL",
     "Postcode": "L12 7JB",
@@ -68138,6 +69314,90 @@
     "Northing": 388674.0
   },
   {
+    "Name": "DKW AUTOS LTD",
+    "Address": "1 BEAU STREET, OFF FOX STREET, LIVERPOOL",
+    "Postcode": "L3 3JE",
+    "Easting": 335131.0,
+    "Northing": 391542.0
+  },
+  {
+    "Name": "LIVERPOOL SEAT",
+    "Address": "PALL MALL, LIVERPOOL",
+    "Postcode": "L3 6AL",
+    "Easting": 334271.0,
+    "Northing": 390837.0
+  },
+  {
+    "Name": "CROFT AUTO'S",
+    "Address": "UNIT 2, 131 VAUXHALL ROAD, LIVERPOOL",
+    "Postcode": "L3 6BN",
+    "Easting": 334294.0,
+    "Northing": 391288.0
+  },
+  {
+    "Name": "LIVERPOOL COMMUNITY COLLEGE",
+    "Address": "139 VAUXHALL ROAD, LIVERPOOL",
+    "Postcode": "L3 6BN",
+    "Easting": 334294.0,
+    "Northing": 391288.0
+  },
+  {
+    "Name": "NATIONAL TYRES & AUTOCARE",
+    "Address": "26-32 VAUXHALL ROAD, LIVERPOOL",
+    "Postcode": "L3 6DJ",
+    "Easting": 334396.0,
+    "Northing": 391055.0
+  },
+  {
+    "Name": "BUCKLEYS MOT CENTRE",
+    "Address": "UNIT 4, 8A BLACKSTOCK STREET, LIVERPOOL",
+    "Postcode": "L3 6EP",
+    "Easting": 334427.0,
+    "Northing": 391383.0
+  },
+  {
+    "Name": "MB-LIVERPOOL LTD",
+    "Address": "95 - 113 GREAT HOWARD STREET, LIVERPOOL",
+    "Postcode": "L3 7AT",
+    "Easting": 333848.0,
+    "Northing": 391640.0
+  },
+  {
+    "Name": "ONE STOP GARAGE",
+    "Address": "18 VULCAN STREET, LIVERPOOL",
+    "Postcode": "L3 7BG",
+    "Easting": 333754.0,
+    "Northing": 391634.0
+  },
+  {
+    "Name": "MERCEDES BENZ OF LIVERPOOL",
+    "Address": "66-68 PALL MALL, LIVERPOOL",
+    "Postcode": "L3 7DB",
+    "Easting": 334096.0,
+    "Northing": 391141.0
+  },
+  {
+    "Name": "NORTHWEST MOTOR ENGINEERING",
+    "Address": "19 DUBLIN STREET, KIRKDALE, LIVERPOOL",
+    "Postcode": "L3 7DT",
+    "Easting": 333752.0,
+    "Northing": 391935.0
+  },
+  {
+    "Name": "TAXIFIXER",
+    "Address": "11 COTTON STREET, LIVERPOOL",
+    "Postcode": "L3 7DY",
+    "Easting": 333758.0,
+    "Northing": 391826.0
+  },
+  {
+    "Name": "ELITE MOT CENTRE LIMITED",
+    "Address": "8 COTTON STREET, LIVERPOOL",
+    "Postcode": "L3 7DY",
+    "Easting": 333758.0,
+    "Northing": 391826.0
+  },
+  {
     "Name": "MERSEYSIDE FIRE AND RESCUE SERVICE",
     "Address": "TRANSPORT WORKSHOP, UNIT 1, VESTY ROAD, BOOTLE",
     "Postcode": "L30 1NY",
@@ -68607,6 +69867,62 @@
     "Northing": 409823.0
   },
   {
+    "Name": "GRAMPIAN ENGINEERING LTD",
+    "Address": "71 - 79 OAKFIELD ROAD, LIVERPOOL",
+    "Postcode": "L4 0UE",
+    "Easting": 336448.0,
+    "Northing": 392669.0
+  },
+  {
+    "Name": "ANFIELD MOT & SERVICE LTD",
+    "Address": "232 PRIORY ROAD, ANFIELD, LIVERPOOL",
+    "Postcode": "L4 2SL",
+    "Easting": 336271.0,
+    "Northing": 393776.0
+  },
+  {
+    "Name": "P AND W AUTO SERVICES",
+    "Address": "SPRINGFIELD SQUARE, 230A WALTON ROAD, WALTON, LIVERPOOL",
+    "Postcode": "L4 4BJ",
+    "Easting": 335580.0,
+    "Northing": 393787.0
+  },
+  {
+    "Name": "LANGHAM STREET AUTOS",
+    "Address": "UNIT 2B, LANGHAM STREET, WALTON, LIVERPOOL",
+    "Postcode": "L4 4DA",
+    "Easting": 335744.0,
+    "Northing": 393838.0
+  },
+  {
+    "Name": "KEITH HULSE TYRES",
+    "Address": "C3 LANGHAM INDUSTRIAL ESTATE, LANGHAM STREET, LIVERPOOL",
+    "Postcode": "L4 4DA",
+    "Easting": 335744.0,
+    "Northing": 393838.0
+  },
+  {
+    "Name": "TAWD STREET GARAGE LTD",
+    "Address": "6 TO 8 TAWD STREET, OFF WESTMINSTER ROAD, LIVERPOOL",
+    "Postcode": "L4 4PD",
+    "Easting": 335295.0,
+    "Northing": 393738.0
+  },
+  {
+    "Name": "EB JONES LTD",
+    "Address": "184 COUNTY ROAD, WALTON, LIVERPOOL",
+    "Postcode": "L4 5PH",
+    "Easting": 335671.0,
+    "Northing": 394529.0
+  },
+  {
+    "Name": "WALTON VILLAGE MOT LTD",
+    "Address": "11 HAGGERSTON ROAD, WALTON, LIVERPOOL",
+    "Postcode": "L4 6TT",
+    "Easting": 336300.0,
+    "Northing": 394689.0
+  },
+  {
     "Name": "CAUSEWAY GARAGE",
     "Address": "95 CAUSEWAY LANE, RUFFORD",
     "Postcode": "L40 1SL",
@@ -68682,6 +69998,286 @@
     "Postcode": "L40 9RT",
     "Easting": 337398.0,
     "Northing": 413391.0
+  },
+  {
+    "Name": "LIVERPOOL COMMUNITY TRANSPORT",
+    "Address": "14 GRUNDY STREET, LIVERPOOL",
+    "Postcode": "L5 9SG",
+    "Easting": 334039.0,
+    "Northing": 392787.0
+  },
+  {
+    "Name": "LIVERPOOL AUDI",
+    "Address": "41 SANDHILLS LANE, LIVERPOOL",
+    "Postcode": "L5 9XN",
+    "Easting": 333978.0,
+    "Northing": 393149.0
+  },
+  {
+    "Name": "ALEX LAWRIE SKODA",
+    "Address": "38 SANDHILLS LANE, DERBY ROAD, LIVERPOOL",
+    "Postcode": "L5 9XN",
+    "Easting": 333978.0,
+    "Northing": 393149.0
+  },
+  {
+    "Name": "GALLAGHER AUTOS LTD",
+    "Address": "5 SANDON WAY, KIRKDALE, LIVERPOOL",
+    "Postcode": "L5 9YN",
+    "Easting": 333849.0,
+    "Northing": 392847.0
+  },
+  {
+    "Name": "HALFORDS AUTOCENTRE",
+    "Address": "UNIT 17, ERSKINE TRADE PARK, TRAFALGAR WAY, LIVERPOOL",
+    "Postcode": "L6 1NA",
+    "Easting": 336038.0,
+    "Northing": 391066.0
+  },
+  {
+    "Name": "J & B MOT CENTRE LIMITED",
+    "Address": "UNIT E1, MARVIN STREET, LIVERPOOL",
+    "Postcode": "L6 1NF",
+    "Easting": 336393.0,
+    "Northing": 391048.0
+  },
+  {
+    "Name": "PREMIER AUTO CARE",
+    "Address": "PREMIER AUTOCARE, 46 WEST DERBY ROAD, LIVERPOOL",
+    "Postcode": "L6 2AE",
+    "Easting": 336300.0,
+    "Northing": 391272.0
+  },
+  {
+    "Name": "BELMONT MOT SERVICE STATION LIMITED",
+    "Address": "UNIT 27, LARCH LEA INDUSTRIAL ESTATE, CASTOR STREET, LIVERPOOL",
+    "Postcode": "L6 5AT",
+    "Easting": 336852.0,
+    "Northing": 392220.0
+  },
+  {
+    "Name": "C AND A MOTORS",
+    "Address": "22 SEVERS STREET, LIVERPOOL",
+    "Postcode": "L6 5HJ",
+    "Easting": 336568.0,
+    "Northing": 391742.0
+  },
+  {
+    "Name": "MGM GARAGE",
+    "Address": "12B BRECON STREET, LIVERPOOL",
+    "Postcode": "L6 9EY",
+    "Easting": 336682.0,
+    "Northing": 391506.0
+  },
+  {
+    "Name": "INTERNATIONAL GARAGE LIMITED",
+    "Address": "159 / 161 PRESCOT ROAD, LIVERPOOL",
+    "Postcode": "L7 0LD",
+    "Easting": 337769.0,
+    "Northing": 391177.0
+  },
+  {
+    "Name": "THOMAS MOTORS",
+    "Address": "163 PRESCOT ROAD, LIVERPOOL",
+    "Postcode": "L7 0LD",
+    "Easting": 337769.0,
+    "Northing": 391177.0
+  },
+  {
+    "Name": "DANTOM AUTO CENTRE",
+    "Address": "106 -108 SMITHDOWN ROAD, LIVERPOOL",
+    "Postcode": "L7 4JQ",
+    "Easting": 337255.0,
+    "Northing": 389306.0
+  },
+  {
+    "Name": "C&P MOT & REPAIR CENTRE",
+    "Address": "74 DURNING ROAD, LIVERPOOL",
+    "Postcode": "L7 5NG",
+    "Easting": 337066.0,
+    "Northing": 390311.0
+  },
+  {
+    "Name": "A T TYRES LTD",
+    "Address": "UNIT 7, HARBORD INDUSTRIAL ESTATE, WAVERTREE, LIVERPOOL",
+    "Postcode": "L7 6GA",
+    "Easting": 336932.0,
+    "Northing": 390050.0
+  },
+  {
+    "Name": "DINGWALL AUTOS LTD",
+    "Address": "UNIT 46 / 1D, HARBORD INDUSTRIAL ESTATE, LIVERPOOL",
+    "Postcode": "L7 6GA",
+    "Easting": 336932.0,
+    "Northing": 390050.0
+  },
+  {
+    "Name": "GEORGE GAWITH (TAXIS) LTD",
+    "Address": "63-67 KENSINGTON, LIVERPOOL",
+    "Postcode": "L7 8UY",
+    "Easting": 336444.0,
+    "Northing": 390966.0
+  },
+  {
+    "Name": "C & S MOT & SERVICE CENTRE",
+    "Address": "13a YANWATH STREET, LIVERPOOL",
+    "Postcode": "L8 0XP",
+    "Easting": 336987.0,
+    "Northing": 389437.0
+  },
+  {
+    "Name": "THRELFALL AUTOS",
+    "Address": "27 TO 29 THRELFALL STREET, LIVERPOOL",
+    "Postcode": "L8 4QL",
+    "Easting": 336342.0,
+    "Northing": 387881.0
+  },
+  {
+    "Name": "ASHWELL MOTORS",
+    "Address": "22 TO 30 ASHWELL STREET, LIVERPOOL",
+    "Postcode": "L8 5RU",
+    "Easting": 335156.0,
+    "Northing": 389014.0
+  },
+  {
+    "Name": "BRUNSWICK MOT & SERVICE CENTRE LTD",
+    "Address": "UNIT 1, STATION TRADING PARK, SEFTON STREET, LIVERPOOL",
+    "Postcode": "L8 5SN",
+    "Easting": 335250.0,
+    "Northing": 387670.0
+  },
+  {
+    "Name": "RENAULT LIVERPOOL",
+    "Address": "SEFTON STREET, LIVERPOOL",
+    "Postcode": "L8 6PZ",
+    "Easting": 334981.0,
+    "Northing": 388247.0
+  },
+  {
+    "Name": "STONEACRE",
+    "Address": "SEFTON STREET, LIVERPOOL",
+    "Postcode": "L8 6QP",
+    "Easting": 335390.0,
+    "Northing": 388162.0
+  },
+  {
+    "Name": "DJP AUTOCARE",
+    "Address": "123 - 125 NORTHUMBERLAND STREET, TOXTETH, LIVERPOOL",
+    "Postcode": "L8 8AY",
+    "Easting": 335756.0,
+    "Northing": 388519.0
+  },
+  {
+    "Name": "J & D AUTOS",
+    "Address": "146 WINDSOR STREET, LIVERPOOL",
+    "Postcode": "L8 8EH",
+    "Easting": 335813.0,
+    "Northing": 388610.0
+  },
+  {
+    "Name": "CAR CARE CENTRE",
+    "Address": "444 PARK ROAD, LIVERPOOL",
+    "Postcode": "L8 9RF",
+    "Easting": 336285.0,
+    "Northing": 387642.0
+  },
+  {
+    "Name": "WALTON CAR CENTRE LTD",
+    "Address": "209 - 211 RICE LANE, WALTON, LIVERPOOL",
+    "Postcode": "L9 1AQ",
+    "Easting": 336207.0,
+    "Northing": 395774.0
+  },
+  {
+    "Name": "MAPLES AUTOS",
+    "Address": "1A LANCASTER STREET, WALTON, LIVERPOOL",
+    "Postcode": "L9 1BG",
+    "Easting": 335812.0,
+    "Northing": 395138.0
+  },
+  {
+    "Name": "CROPPERS GARAGE (LIVERPOOL) LTD",
+    "Address": "2 BREEZE HILL, WALTON, LIVERPOOL",
+    "Postcode": "L9 1DY",
+    "Easting": 335724.0,
+    "Northing": 394918.0
+  },
+  {
+    "Name": "R AND A RACECOURSE GARAGE",
+    "Address": "29 ORMSKIRK ROAD, AINTREE, LIVERPOOL",
+    "Postcode": "L9 5AD",
+    "Easting": 336699.0,
+    "Northing": 398129.0
+  },
+  {
+    "Name": "HALFORDS AUTOCENTRE",
+    "Address": "UNIT 1, ORMSKIRK ROAD, BRENKA AVENUE, LIVERPOOL",
+    "Postcode": "L9 5AD",
+    "Easting": 336699.0,
+    "Northing": 398129.0
+  },
+  {
+    "Name": "TALLISGROVE MOTORS LTD",
+    "Address": "UNIT 7B, AINTREE RACECOURSE BUSINESS PK, AINTREE, LIVERPOOL",
+    "Postcode": "L9 5AY",
+    "Easting": 337155.0,
+    "Northing": 398584.0
+  },
+  {
+    "Name": "QUICK FIX TYRES LIVERPOOL LTD",
+    "Address": "UNIT 4, BROOKFIELD DRIVE BUSINESS PARK, BROOKFIELD DRIVE, LIVERPOOL",
+    "Postcode": "L9 7AJ",
+    "Easting": 337455.0,
+    "Northing": 396355.0
+  },
+  {
+    "Name": "AINTREE MOTORS",
+    "Address": "117 BROOKFIELD DRIVE, AINTREE, LIVERPOOL",
+    "Postcode": "L9 7AJ",
+    "Easting": 337455.0,
+    "Northing": 396355.0
+  },
+  {
+    "Name": "BROOKFIELD DRIVE GARAGE LTD",
+    "Address": "UNIT 2, BROOKFIELD DRIVE, AINTREE, LIVERPOOL",
+    "Postcode": "L9 7AN",
+    "Easting": 337189.0,
+    "Northing": 396309.0
+  },
+  {
+    "Name": "ALMONDS GREEN SERVICE CENTER",
+    "Address": "UNIT 5B, NELSONS BUSINESS PARK, LONG LANE, LIVERPOOL",
+    "Postcode": "L9 7BN",
+    "Easting": 337282.0,
+    "Northing": 395808.0
+  },
+  {
+    "Name": "LONGMOOR SERVICE MOT CENTRE",
+    "Address": "UNIT 100 HARTLEY AVENUE, AINTREE, LIVERPOOL",
+    "Postcode": "L9 7DB",
+    "Easting": 336836.0,
+    "Northing": 396468.0
+  },
+  {
+    "Name": "ATC AUTO CARE LTD",
+    "Address": "21 CHARNOCK ROAD, LIVERPOOL",
+    "Postcode": "L9 7ET",
+    "Easting": 337596.0,
+    "Northing": 395347.0
+  },
+  {
+    "Name": "RELIABLE AUTOS",
+    "Address": "66 LONG LANE, LIVERPOOL",
+    "Postcode": "L9 9AQ",
+    "Easting": 336813.0,
+    "Northing": 396769.0
+  },
+  {
+    "Name": "FAZAKERLEY GARAGE",
+    "Address": "STABLE LADDERS, 452 LONGMOOR LANE, FAZAKERLEY, LIVERPOOL",
+    "Postcode": "L9 9BY",
+    "Easting": 337750.0,
+    "Northing": 397269.0
   },
   {
     "Name": "PICCADILLY GARAGE LTD",
@@ -78029,6 +79625,13 @@
     "Northing": 226891.0
   },
   {
+    "Name": "D C MOTOR ENGINEERS",
+    "Address": "44 - 45 YORK STREET, MANCHESTER",
+    "Postcode": "M1 7DE",
+    "Easting": 384229.0,
+    "Northing": 397505.0
+  },
+  {
     "Name": "CMC MOTORCYCLES MANCHESTER",
     "Address": "UNITS 3 & 4, 1121 ASHTON OLD ROAD, OPENSHAW, MANCHESTER",
     "Postcode": "M11 1AA",
@@ -79212,6 +80815,27 @@
     "Northing": 401984.0
   },
   {
+    "Name": "DUFFY MOTORS (MANCHESTER) LTD",
+    "Address": "16-17 WATSON STREET, MANCHESTER",
+    "Postcode": "M3 4LP",
+    "Easting": 383582.0,
+    "Northing": 397761.0
+  },
+  {
+    "Name": "BM TEC LIMITED",
+    "Address": "43/44 UNION STREET, SALFORD",
+    "Postcode": "M3 7AX",
+    "Easting": 383414.0,
+    "Northing": 398757.0
+  },
+  {
+    "Name": "RENAULT MANCHESTER",
+    "Address": "TRINITY WAY, MANCHESTER",
+    "Postcode": "M3 7FT",
+    "Easting": 383280.0,
+    "Northing": 398981.0
+  },
+  {
     "Name": "PENTAGON VAUXHALL ECCLES",
     "Address": "ALBERT STREET, ECCLES, MANCHESTER",
     "Postcode": "M30 0LN",
@@ -79618,6 +81242,27 @@
     "Northing": 404443.0
   },
   {
+    "Name": "ROYAL MAIL GROUP PLC VEHICLE SERVICES WORKSHOP",
+    "Address": "OLDHAM ROAD, MANCHESTER",
+    "Postcode": "M4 5AA",
+    "Easting": 385021.0,
+    "Northing": 398985.0
+  },
+  {
+    "Name": "BLOSSOM MOTOR COMPANY",
+    "Address": "27 GUN STREET, ANCOATS, MANCHESTER",
+    "Postcode": "M4 5DN",
+    "Easting": 384804.0,
+    "Northing": 398630.0
+  },
+  {
+    "Name": "B&C MOTORCYCLES",
+    "Address": "198-200 OLDHAM ROAD, MANCHESTER",
+    "Postcode": "M4 6BQ",
+    "Easting": 385104.0,
+    "Northing": 398968.0
+  },
+  {
     "Name": "CLAYTON BRIDGE GARAGE LIMITED",
     "Address": "MILL STREAM LANE, MANCHESTER",
     "Postcode": "M40 1GT",
@@ -79721,6 +81366,13 @@
     "Postcode": "M40 9LY",
     "Easting": 386998.0,
     "Northing": 401676.0
+  },
+  {
+    "Name": "WILLIAMS JLR",
+    "Address": "24 BARTON DOCK ROAD, URMSTON, MANCHESTER",
+    "Postcode": "M41 7GF",
+    "Easting": 377636.0,
+    "Northing": 396376.0
   },
   {
     "Name": "GARRITY VEHICLE SERVICES",
@@ -79919,6 +81571,55 @@
     "Northing": 403512.0
   },
   {
+    "Name": "RRG SALFORD QUAYS",
+    "Address": "173 CROSS LANE, SALFORD",
+    "Postcode": "M5 4AP",
+    "Easting": 381464.0,
+    "Northing": 398266.0
+  },
+  {
+    "Name": "ARNOLD CLARK",
+    "Address": "ALBION WAY, SALFORD",
+    "Postcode": "M5 4BE",
+    "Easting": 381811.0,
+    "Northing": 398401.0
+  },
+  {
+    "Name": "ROBINS & DAY MANCHESTER",
+    "Address": "WINDSOR STREET, SALFORD, MANCHESTER",
+    "Postcode": "M5 4DG",
+    "Easting": 381526.0,
+    "Northing": 398125.0
+  },
+  {
+    "Name": "REDGRAVE MOTORS",
+    "Address": "REDGRAVE MOTORS, 91-97 LIVERPOOL STREET, SALFORD, MANCHESTER",
+    "Postcode": "M5 4LG",
+    "Easting": 382011.0,
+    "Northing": 398221.0
+  },
+  {
+    "Name": "FIRST STEP TRUST",
+    "Address": "UNIT 2, OAKWOOD TRADING ESTATE, MODE WHEEL ROAD, SALFORD",
+    "Postcode": "M5 5DQ",
+    "Easting": 379846.0,
+    "Northing": 398285.0
+  },
+  {
+    "Name": "CLAREMONT GARAGE",
+    "Address": "WEASTE LANE INDUSTRIAL ESTATE, WEASTE LANE, SALFORD, MANCHESTER",
+    "Postcode": "M5 5HD",
+    "Easting": 379796.0,
+    "Northing": 398581.0
+  },
+  {
+    "Name": "VICTORIA MOTOR SERVICES",
+    "Address": "617 LIVERPOOL STREET, SALFORD",
+    "Postcode": "M5 5HQ",
+    "Easting": 379790.0,
+    "Northing": 398699.0
+  },
+  {
     "Name": "WHARF MOTORS",
     "Address": "UNIT 1, MODE WHEEL INDUSTRIAL ESTATE, MODE WHEEL ROAD, SALFORD",
     "Postcode": "M50 1DG",
@@ -79952,6 +81653,209 @@
     "Postcode": "M50 2QL",
     "Easting": 380208.0,
     "Northing": 397863.0
+  },
+  {
+    "Name": "MAINLINE (2007) LIMITED",
+    "Address": "CUMBERLAND MOT TEST CENTRE, LISSADEL STREET, SALFORD",
+    "Postcode": "M6 6GG",
+    "Easting": 381448.0,
+    "Northing": 399682.0
+  },
+  {
+    "Name": "PAYNES MOT CENTRE",
+    "Address": "UNIT 1, 294 WHIT LANE, SALFORD, MANCHESTER",
+    "Postcode": "M6 6JF",
+    "Easting": 380967.0,
+    "Northing": 400690.0
+  },
+  {
+    "Name": "PARKHOUSE GARAGE",
+    "Address": "PARKHOUSE BRIDGE ESTATE, LANGLEY ROAD, SALFORD",
+    "Postcode": "M6 6JQ",
+    "Easting": 380581.0,
+    "Northing": 400989.0
+  },
+  {
+    "Name": "MANCHESTER COMMERCIALS AND SONS (NW) LIMITED",
+    "Address": "OLD COACH STATION, CHELTENHAM STREET, SALFORD, MANCHESTER",
+    "Postcode": "M6 6WY",
+    "Easting": 381415.0,
+    "Northing": 399535.0
+  },
+  {
+    "Name": "NORTH WEST AUTOCENTRE",
+    "Address": "191 BOLTON ROAD, IRLAMS OTH HEIGHT, SALFORD",
+    "Postcode": "M6 7NU",
+    "Easting": 380169.0,
+    "Northing": 400005.0
+  },
+  {
+    "Name": "PARK GARAGE (SALFORD)",
+    "Address": "SWINTON PARK ROAD, SALFORD",
+    "Postcode": "M6 7WR",
+    "Easting": 379335.0,
+    "Northing": 400542.0
+  },
+  {
+    "Name": "LIGHTOAKS GARAGE LIMITED",
+    "Address": "LIGHT OAKS GARAGE, LANCASTER ROAD, SALFORD",
+    "Postcode": "M6 8AP",
+    "Easting": 378838.0,
+    "Northing": 399739.0
+  },
+  {
+    "Name": "TOKYO 1 CARS LTD",
+    "Address": "UNIT 3, 13-17 GRECIAN STREET, SALFORD",
+    "Postcode": "M7 1JF",
+    "Easting": 382420.0,
+    "Northing": 400084.0
+  },
+  {
+    "Name": "TRINITY DIESELS",
+    "Address": "UNITS 1-2, NO. 2 KENT STREET, OFF GREAT CLOWES STREET, SALFORD",
+    "Postcode": "M7 1UN",
+    "Easting": 382919.0,
+    "Northing": 399862.0
+  },
+  {
+    "Name": "LOOKERS MANCHESTER SEAT/SKODA",
+    "Address": "266 BURY NEW ROAD, SALFORD",
+    "Postcode": "M7 2YJ",
+    "Easting": 383069.0,
+    "Northing": 400525.0
+  },
+  {
+    "Name": "WEST RIDING HYUNDAI",
+    "Address": "299/303 BURY NEW ROAD, MANCHESTER",
+    "Postcode": "M7 2YN",
+    "Easting": 383002.0,
+    "Northing": 400540.0
+  },
+  {
+    "Name": "MARKET PLACE GARAGE",
+    "Address": "REAR OF 411 BURY NEW ROAD, HIGHER BROUGHTON, SALFORD, MANCHESTER",
+    "Postcode": "M7 4ED",
+    "Easting": 382729.0,
+    "Northing": 401223.0
+  },
+  {
+    "Name": "A B S",
+    "Address": "A B S, 433A CHEETHAM HILL ROAD, MANCHESTER",
+    "Postcode": "M8 0PF",
+    "Easting": 384267.0,
+    "Northing": 401078.0
+  },
+  {
+    "Name": "NAZ'S MOT LIMITED",
+    "Address": "2 SANDY BANK ROAD (OFF BURY OLD ROAD, CHEETHAM HILL, MANCHESTER",
+    "Postcode": "M8 5EN",
+    "Easting": 383807.0,
+    "Northing": 401952.0
+  },
+  {
+    "Name": "KWIK - FIT",
+    "Address": "BURY NEW ROAD, SALFORD",
+    "Postcode": "M8 8DY",
+    "Easting": 383212.0,
+    "Northing": 400267.0
+  },
+  {
+    "Name": "YOULES MOTORCYCLES MANCHESTER",
+    "Address": "186 BURY NEW ROAD, MANCHESTER",
+    "Postcode": "M8 8DY",
+    "Easting": 383212.0,
+    "Northing": 400267.0
+  },
+  {
+    "Name": "HALFORDS AUTOCENTRE",
+    "Address": "184 BURY NEW ROAD, MANCHESTER",
+    "Postcode": "M8 8DY",
+    "Easting": 383212.0,
+    "Northing": 400267.0
+  },
+  {
+    "Name": "ATS EUROMASTER LTD",
+    "Address": "20 - 28 WATERLOO ROAD, MANCHESTER",
+    "Postcode": "M8 8GJ",
+    "Easting": 383541.0,
+    "Northing": 399887.0
+  },
+  {
+    "Name": "2030 MOT CENTRE",
+    "Address": "RAYNESWAY, BROUGHTON STREET, CHEETHAM, MANCHESTER",
+    "Postcode": "M8 8NN",
+    "Easting": 384059.0,
+    "Northing": 399991.0
+  },
+  {
+    "Name": "NORTH STREET(MOTS) LTD",
+    "Address": "59-63 NORTH STREET, CHEETHAM, MANCHESTER",
+    "Postcode": "M8 8RE",
+    "Easting": 384406.0,
+    "Northing": 399857.0
+  },
+  {
+    "Name": "COLLINGHAM AUTOS LIMITED",
+    "Address": "19 COLLINGHAM STREET, MANCHESTER",
+    "Postcode": "M8 8RQ",
+    "Easting": 384640.0,
+    "Northing": 399863.0
+  },
+  {
+    "Name": "CHEETHAM MOT STATION",
+    "Address": "360 CHEETHAM HILL ROAD, CHEETHAM HILL, MANCHESTER",
+    "Postcode": "M8 9LS",
+    "Easting": 384150.0,
+    "Northing": 401256.0
+  },
+  {
+    "Name": "ANA MOT EXPRESS",
+    "Address": "55 BROUGHTON LANE, SALFORD, GREATER MANCHESTER",
+    "Postcode": "M8 9UE",
+    "Easting": 383236.0,
+    "Northing": 399853.0
+  },
+  {
+    "Name": "MELBOURNE STREET MOTORS",
+    "Address": "2 MELBOURNE STREET, BLACKLEY, MANCHESTER",
+    "Postcode": "M9 4EH",
+    "Easting": 386440.0,
+    "Northing": 401951.0
+  },
+  {
+    "Name": "BROMLEY TRANSPORT SERVICES",
+    "Address": "UNIT 2 - 3 BROOKSIDE WORKS, CLOUGH ROAD, BLACKLEY, MANCHESTER",
+    "Postcode": "M9 4FP",
+    "Easting": 386565.0,
+    "Northing": 402091.0
+  },
+  {
+    "Name": "MOSTON MOT CENTRE",
+    "Address": "IVY GARAGE, GILL STREET, MOSTON, MANCHESTER",
+    "Postcode": "M9 4HA",
+    "Easting": 386689.0,
+    "Northing": 402072.0
+  },
+  {
+    "Name": "S BOLZ LTD",
+    "Address": "108 CHURCH LANE, HARPURHEY, MANCHESTER",
+    "Postcode": "M9 4NJ",
+    "Easting": 386248.0,
+    "Northing": 401451.0
+  },
+  {
+    "Name": "A1 GARAGE (MCR) LIMITED",
+    "Address": "158 BLACKLEY NEW ROAD, MANCHESTER",
+    "Postcode": "M9 8EG",
+    "Easting": 384926.0,
+    "Northing": 403016.0
+  },
+  {
+    "Name": "K P MOT CENTRE",
+    "Address": "355 VICTORIA AVENUE, BLACKLEY, MANCHESTER",
+    "Postcode": "M9 8WQ",
+    "Easting": 384770.0,
+    "Northing": 404105.0
   },
   {
     "Name": "M R T VEHICLE TECHNICIANS",
@@ -81415,6 +83319,13 @@
     "Postcode": "ME9 9JY",
     "Easting": 596899.0,
     "Northing": 161828.0
+  },
+  {
+    "Name": "SMC AUTOS LIMITED",
+    "Address": "UNIT 3, 23 FIRST AVENUE, BLETCHLEY, MILTON KEYNES",
+    "Postcode": "MK1 1DX",
+    "Easting": 487075.0,
+    "Northing": 234547.0
   },
   {
     "Name": "ANGLO CONTINENTAL CARS",
@@ -83727,6 +85638,34 @@
     "Northing": 646911.0
   },
   {
+    "Name": "BURWIN MOTORCYCLES LTD",
+    "Address": "378-380 ESSEX ROAD, ISLINGTON, LONDON",
+    "Postcode": "N1 3PF",
+    "Easting": 532676.0,
+    "Northing": 184647.0
+  },
+  {
+    "Name": "DMC LONDON LTD",
+    "Address": "1 KINGSBURY ROAD, ISLINGTON, LONDON",
+    "Postcode": "N1 4AZ",
+    "Easting": 533290.0,
+    "Northing": 184999.0
+  },
+  {
+    "Name": "BENTLEY MOTORS",
+    "Address": "30 BENTLEY ROAD, LONDON",
+    "Postcode": "N1 4BY",
+    "Easting": 533453.0,
+    "Northing": 184721.0
+  },
+  {
+    "Name": "HACKNEY COMMUNITY COLLEGE",
+    "Address": "FALKIRK STREET, LONDON",
+    "Postcode": "N1 6HQ",
+    "Easting": 533326.0,
+    "Northing": 183062.0
+  },
+  {
     "Name": "CARS WITH STARS LIMITED",
     "Address": "THIRLESTONE WORKS, COLNEY HATCH LANE, MUSWELL HILL, LONDON",
     "Postcode": "N10 1LJ",
@@ -84217,6 +86156,13 @@
     "Northing": 184211.0
   },
   {
+    "Name": "H & B MOTOR ENGINEERS LTD",
+    "Address": "KING STREET GARAGE, EAST FINCHLEY, LONDON",
+    "Postcode": "N2 8EA",
+    "Easting": 526747.0,
+    "Northing": 189925.0
+  },
+  {
     "Name": "WHETSTONE AUDI",
     "Address": "1083 - 1113 HIGH ROAD, WHETSTONE, LONDON",
     "Postcode": "N20 0PT",
@@ -84292,6 +86238,167 @@
     "Postcode": "N22 8JA",
     "Easting": 530840.0,
     "Northing": 191203.0
+  },
+  {
+    "Name": "ROAD RUNNER SERVICE CENTRE (FINCHLEY) LIMITED",
+    "Address": "11 GRUNEISEN ROAD, FINCHLEY, LONDON",
+    "Postcode": "N3 1LS",
+    "Easting": 525612.0,
+    "Northing": 191329.0
+  },
+  {
+    "Name": "HALFORDS AUTOCENTRES",
+    "Address": "284 NETHER STREET, FINCHLEY",
+    "Postcode": "N3 1RJ",
+    "Easting": 525068.0,
+    "Northing": 190862.0
+  },
+  {
+    "Name": "GLEBE MOTOR SERVICES",
+    "Address": "EPOCH WORKS, 79 GLEBE ROAD, NORTH FINCHLEY, LONDON",
+    "Postcode": "N3 2AX",
+    "Easting": 526477.0,
+    "Northing": 190748.0
+  },
+  {
+    "Name": "MOTOR RIDERS & MOTORCYCLES LTD",
+    "Address": "201 REGENTS PARK ROAD, FINCHLEY, LONDON",
+    "Postcode": "N3 3LN",
+    "Easting": 524833.0,
+    "Northing": 189927.0
+  },
+  {
+    "Name": "NEW AUTO-TECH",
+    "Address": "13 ALROY ROAD, FINSBURY PARK, LONDON",
+    "Postcode": "N4 1EF",
+    "Easting": 531450.0,
+    "Northing": 187918.0
+  },
+  {
+    "Name": "DAYTONA GARAGE",
+    "Address": "98 VALE ROAD, HARRINGAY, LONDON",
+    "Postcode": "N4 1PZ",
+    "Easting": 532230.0,
+    "Northing": 187908.0
+  },
+  {
+    "Name": "G & N GARAGES LIMITED",
+    "Address": "54-58 WIGHTMAN ROAD, HARRINGAY, LONDON",
+    "Postcode": "N4 1RU",
+    "Easting": 531485.0,
+    "Northing": 188161.0
+  },
+  {
+    "Name": "KELVIN MOTOR WAGONS",
+    "Address": "1A LAURA TERRACE, BROWNSWOOD ROAD, FINSBURY PARK, LONDON",
+    "Postcode": "N4 2SS",
+    "Easting": 531983.0,
+    "Northing": 186562.0
+  },
+  {
+    "Name": "AIR COOL MOTOR SERVICES LIMITED",
+    "Address": "UNIT 4 FROGMORE INDUSTRIAL ESTATE, KELVIN ROAD, ISLINGTON, LONDON",
+    "Postcode": "N5 2PL",
+    "Easting": 532068.0,
+    "Northing": 185530.0
+  },
+  {
+    "Name": "HIGHGATE AUTOS LIMITED",
+    "Address": "9 BROADBENT CLOSE, 20-22 HIGHGATE HIGH STREET, HIGHGATE, LONDON",
+    "Postcode": "N6 5JW",
+    "Easting": 528567.0,
+    "Northing": 187408.0
+  },
+  {
+    "Name": "KWIK - FIT",
+    "Address": "379 CAMDEN ROAD, ISLINGTON, LONDON",
+    "Postcode": "N7 0SH",
+    "Easting": 530493.0,
+    "Northing": 185750.0
+  },
+  {
+    "Name": "HARRY MOTORS II LTD",
+    "Address": "387 CAMDEN ROAD, HOLLOWAY, LONDON",
+    "Postcode": "N7 0SH",
+    "Easting": 530493.0,
+    "Northing": 185750.0
+  },
+  {
+    "Name": "DMP AUTOS LIMITED",
+    "Address": "1-3 GEORGES ROAD, LONDON",
+    "Postcode": "N7 8HD",
+    "Easting": 530863.0,
+    "Northing": 185088.0
+  },
+  {
+    "Name": "J AND J AUTOS",
+    "Address": "2 ACORN PRODUCTION CENTRE, 105 BLUNDELL STRET, ISLINGTON, LONDON",
+    "Postcode": "N7 9BN",
+    "Easting": 530291.0,
+    "Northing": 184435.0
+  },
+  {
+    "Name": "M & A MOTORS",
+    "Address": "243A WIGHTMAN ROAD, LONDON",
+    "Postcode": "N8 0BA",
+    "Easting": 531298.0,
+    "Northing": 188887.0
+  },
+  {
+    "Name": "PALACE MOTORS LTD",
+    "Address": "93 PARK ROAD, CROUCH END, LONDON",
+    "Postcode": "N8 8JN",
+    "Easting": 529799.0,
+    "Northing": 188706.0
+  },
+  {
+    "Name": "TOTTENHAM LANE SERVICE STATION LIMITED",
+    "Address": "TOTTENHAM LANE, HORNSEY, LONDON",
+    "Postcode": "N8 9DL",
+    "Easting": 530894.0,
+    "Northing": 189171.0
+  },
+  {
+    "Name": "UNIVERSAL MOTORS LTD",
+    "Address": "1A SHRUBBERY ROAD, LONDON",
+    "Postcode": "N9 0PA",
+    "Easting": 534198.0,
+    "Northing": 193113.0
+  },
+  {
+    "Name": "CA BALDWIN & SONS MOTOR ENGINEERS LIMITED",
+    "Address": "51 EASTBOURNIA AVENUE, EDMONTON, LONDON",
+    "Postcode": "N9 0RU",
+    "Easting": 534958.0,
+    "Northing": 193375.0
+  },
+  {
+    "Name": "VORBER LTD",
+    "Address": "145 HERTFORD ROAD, EDMONTON, LONDON",
+    "Postcode": "N9 7EL",
+    "Easting": 534613.0,
+    "Northing": 194121.0
+  },
+  {
+    "Name": "ENFIELD GARAGES LTD",
+    "Address": "38 BURY STREET, EDMONTON, LONDON",
+    "Postcode": "N9 7JY",
+    "Easting": 534425.0,
+    "Northing": 194180.0
+  },
+  {
+    "Name": "HP EDMONTON MOT TEST CENTRE",
+    "Address": "169 CHURCH STREET, EDMONTON, LONDON",
+    "Postcode": "N9 9HL",
+    "Easting": 533252.0,
+    "Northing": 194000.0
+  },
+  {
+    "Name": "1ST QUALITY SERVICE CENTRES LTD",
+    "Address": "RITEWAY GARAGE, R/O BUSH HILL PARADE, BURY STREET WEST, LONDON",
+    "Postcode": "N9 9JS",
+    "Easting": 532886.0,
+    "Northing": 194824.0
   },
   {
     "Name": "LAWLOR MOTOR COMPANY",
@@ -113393,6 +115500,34 @@
     "Northing": 181693.0
   },
   {
+    "Name": "KWIK - FIT",
+    "Address": "TOWNHEAD STREET, SHEFFIELD",
+    "Postcode": "S1 1YG",
+    "Easting": 435055.0,
+    "Northing": 387502.0
+  },
+  {
+    "Name": "ONE STOP MOTORIST CENTRE",
+    "Address": "210 ROCKINGHAM STREET, SHEFFIELD",
+    "Postcode": "S1 4ED",
+    "Easting": 435045.0,
+    "Northing": 386900.0
+  },
+  {
+    "Name": "S P 300",
+    "Address": "182 FITZWILLIAM STREET, SHEFFIELD",
+    "Postcode": "S1 4JR",
+    "Easting": 434858.0,
+    "Northing": 386787.0
+  },
+  {
+    "Name": "HALFORDS AUTOCENTRE",
+    "Address": "157-159 EYRE STREET, SHEFFIELD",
+    "Postcode": "S1 4QW",
+    "Easting": 435275.0,
+    "Northing": 386683.0
+  },
+  {
     "Name": "CARNALLS AUTOCENTRE LIMITED",
     "Address": "2 MULEHOUSE ROAD, CROOKES, SHEFFIELD",
     "Postcode": "S10 1TA",
@@ -113601,6 +115736,125 @@
     "Postcode": "S18 7SB",
     "Easting": 432277.0,
     "Northing": 377402.0
+  },
+  {
+    "Name": "CITY ROAD GARAGE LIMITED",
+    "Address": "482-484 CITY ROAD, SHEFFIELD",
+    "Postcode": "S2 1DG",
+    "Easting": 439216.0,
+    "Northing": 386124.0
+  },
+  {
+    "Name": "KWIK FIT",
+    "Address": "726 CITY ROAD, SHEFFIELD",
+    "Postcode": "S2 1GJ",
+    "Easting": 437664.0,
+    "Northing": 385482.0
+  },
+  {
+    "Name": "PEARL MOTORS LIMITED",
+    "Address": "EAST BANK ROAD, SHEFFIELD",
+    "Postcode": "S2 2AD",
+    "Easting": 437013.0,
+    "Northing": 384688.0
+  },
+  {
+    "Name": "NICK CLULEE MOTOR ENGINEER",
+    "Address": "90 PROSPECT ROAD, SHEFFIELD",
+    "Postcode": "S2 3EN",
+    "Easting": 435331.0,
+    "Northing": 385234.0
+  },
+  {
+    "Name": "BLYTHES GARAGE",
+    "Address": "15 CROSS TURNER STREET, SHEFFIELD",
+    "Postcode": "S2 4AB",
+    "Easting": 435807.0,
+    "Northing": 386757.0
+  },
+  {
+    "Name": "TOP TREAD TYRES MOT TEST CENTRE",
+    "Address": "118 ST MARYS ROAD, SHEFFIELD",
+    "Postcode": "S2 4AW",
+    "Easting": 435552.0,
+    "Northing": 386439.0
+  },
+  {
+    "Name": "THE GARAGE",
+    "Address": "3 SHEAF GARDENS, SHEFFIELD",
+    "Postcode": "S2 4BB",
+    "Easting": 435693.0,
+    "Northing": 386335.0
+  },
+  {
+    "Name": "GRAHAMS TYRES LIMITED",
+    "Address": "44 EDMUND ROAD, SHEFFIELD",
+    "Postcode": "S2 4EA",
+    "Easting": 435587.0,
+    "Northing": 386399.0
+  },
+  {
+    "Name": "SHEFFIELD AUTOCARE LIMITED",
+    "Address": "THE OLD BARRACKS, EDMUND ROAD, SHEFFIELD",
+    "Postcode": "S2 4EE",
+    "Easting": 435551.0,
+    "Northing": 386183.0
+  },
+  {
+    "Name": "SYED MOHSIN RAZA",
+    "Address": "78-82 WRIGHTS HILL, SHEFFIELD",
+    "Postcode": "S2 4NY",
+    "Easting": 434855.0,
+    "Northing": 385904.0
+  },
+  {
+    "Name": "AUTOCRAFT SERVICES",
+    "Address": "95 JOHN STREET, SHEFFIELD",
+    "Postcode": "S2 4QX",
+    "Easting": 435370.0,
+    "Northing": 386182.0
+  },
+  {
+    "Name": "MR EXHAUST",
+    "Address": "88 HARWOOD STREET, SHEFFIELD",
+    "Postcode": "S2 4SE",
+    "Easting": 435163.0,
+    "Northing": 385992.0
+  },
+  {
+    "Name": "UK MOT GARAGE LIMITED",
+    "Address": "5 ST BARNABAS LANE, SHEFFIELD",
+    "Postcode": "S2 4TG",
+    "Easting": 435038.0,
+    "Northing": 385737.0
+  },
+  {
+    "Name": "PARK GARAGE",
+    "Address": "DERWENT STREET, SHEFFIELD",
+    "Postcode": "S2 5BN",
+    "Easting": 436762.0,
+    "Northing": 387590.0
+  },
+  {
+    "Name": "WAYNES AUTOS MOT",
+    "Address": "UNIT 19 CITY ROAD TRADING ESTATE, 295 CITY RIOAD, SHEFFIELD",
+    "Postcode": "S2 5HH",
+    "Easting": 437109.0,
+    "Northing": 386518.0
+  },
+  {
+    "Name": "ROSEDALE GARAGE",
+    "Address": "61 BLAGDEN STREET, SHEFFIELD",
+    "Postcode": "S2 5QS",
+    "Easting": 436459.0,
+    "Northing": 387006.0
+  },
+  {
+    "Name": "S2 AUTO CLINIC",
+    "Address": "SAMSON WORKS, SAMSON STREET, SHEFFIELD",
+    "Postcode": "S2 5QT",
+    "Easting": 436431.0,
+    "Northing": 386983.0
   },
   {
     "Name": "QUEENS ROAD MOT STATION",
@@ -113855,6 +116109,83 @@
     "Northing": 382917.0
   },
   {
+    "Name": "BOWS GARAGE",
+    "Address": "36 TRINITY STREET, SHEFFIELD",
+    "Postcode": "S3 7AJ",
+    "Easting": 435107.0,
+    "Northing": 387875.0
+  },
+  {
+    "Name": "STM MOT",
+    "Address": "PARKWOOD ROAD, NEEPSEND, SHEFFIELD",
+    "Postcode": "S3 8AG",
+    "Easting": 434425.0,
+    "Northing": 389243.0
+  },
+  {
+    "Name": "J J AUTOS",
+    "Address": "UNIT 4 THE YARD, BARDWELL ROAD, SHEFFIELD",
+    "Postcode": "S3 8AS",
+    "Easting": 434780.0,
+    "Northing": 388776.0
+  },
+  {
+    "Name": "STEADFAST AUTO CENTRE",
+    "Address": "48 RUTLAND ROAD, NEEPSEND, SHEFFIELD",
+    "Postcode": "S3 8BD",
+    "Easting": 434941.0,
+    "Northing": 388617.0
+  },
+  {
+    "Name": "D L AUTOS",
+    "Address": "UNIT 5, RUTLAND BUSINESS PARK, RUTLAND ROAD, SHEFFIELD",
+    "Postcode": "S3 8BD",
+    "Easting": 434941.0,
+    "Northing": 388617.0
+  },
+  {
+    "Name": "BLAGDENS MOTOR ENGINEERS SHEFFIELD LIMITED",
+    "Address": "HICKS STREET, SHEFFIELD",
+    "Postcode": "S3 8BL",
+    "Easting": 435061.0,
+    "Northing": 388501.0
+  },
+  {
+    "Name": "SHEFFIELD MOTORCYCLE CENTRE LIMITED",
+    "Address": "35 WALKER STREET, SHEFFIELD",
+    "Postcode": "S3 8GZ",
+    "Easting": 435822.0,
+    "Northing": 388107.0
+  },
+  {
+    "Name": "PITSTOP MVM LIMITED",
+    "Address": "20 STANLEY STREET, SHEFFIELD",
+    "Postcode": "S3 8HJ",
+    "Easting": 435787.0,
+    "Northing": 387962.0
+  },
+  {
+    "Name": "SIGNPOST MOT CENTRE",
+    "Address": "8A KILTON HILL, SHEFFIELD",
+    "Postcode": "S3 9EB",
+    "Easting": 435951.0,
+    "Northing": 388650.0
+  },
+  {
+    "Name": "STEEL CITY MOTS LIMITED",
+    "Address": "CHRISTCHURCH ROAD, PITSMOOR, SHEFFIELD",
+    "Postcode": "S3 9HN",
+    "Easting": 435586.0,
+    "Northing": 389046.0
+  },
+  {
+    "Name": "RUTLAND MOTS",
+    "Address": "UNIT 197, RUTLAND ROAD, SHEFFIELD",
+    "Postcode": "S3 9PT",
+    "Easting": 435214.0,
+    "Northing": 389011.0
+  },
+  {
     "Name": "BARNFIELD GARAGE (HATHERSAGE) LTD",
     "Address": "BARNFIELDS, HATHERSAGE, HOPE VALLEY",
     "Postcode": "S32 1AE",
@@ -114042,6 +116373,125 @@
     "Postcode": "S36 6HF",
     "Easting": 425692.0,
     "Northing": 402910.0
+  },
+  {
+    "Name": "GRIMESTHORPE SERVICE STATION",
+    "Address": "CARLISLE STREET EAST, SHEFFIELD",
+    "Postcode": "S4 7LJ",
+    "Easting": 436325.0,
+    "Northing": 388507.0
+  },
+  {
+    "Name": "VAUX TYRES LIMITED",
+    "Address": "30 CARLISLE STREET, SHEFFIELD",
+    "Postcode": "S4 7LJ",
+    "Easting": 436325.0,
+    "Northing": 388507.0
+  },
+  {
+    "Name": "BURNGREAVE MOT AND SERVICE CENTRE",
+    "Address": "26-30 EARSHAM STREET, SHEFFIELD",
+    "Postcode": "S4 7LS",
+    "Easting": 436197.0,
+    "Northing": 388518.0
+  },
+  {
+    "Name": "ALPHA MOT AND SERVICE CENTRE LIMITED",
+    "Address": "UNIT D, LYONS STREET, SHEFFIELD",
+    "Postcode": "S4 7QS",
+    "Easting": 436531.0,
+    "Northing": 389118.0
+  },
+  {
+    "Name": "GUY SALMON LAND ROVER SHEFFIELD",
+    "Address": "301 SAVILE STREET, SHEFFIELD",
+    "Postcode": "S4 7UD",
+    "Easting": 436252.0,
+    "Northing": 388194.0
+  },
+  {
+    "Name": "PENTAGON VAUXHALL SHEFFIELD (SAVILE STREET)",
+    "Address": "100 SAVILE STREET, SHEFFIELD",
+    "Postcode": "S4 7UD",
+    "Easting": 436252.0,
+    "Northing": 388194.0
+  },
+  {
+    "Name": "HALFORDS AUTOCENTRES LIMITED",
+    "Address": "WICKER CENTRE, SAVILE STREET, SHEFFIELD",
+    "Postcode": "S4 7UD",
+    "Easting": 436252.0,
+    "Northing": 388194.0
+  },
+  {
+    "Name": "THE DUTTON-FORSHAW MOTOR COMPANY LIMITED",
+    "Address": "10 SAVILE STREET, SHEFFIELD",
+    "Postcode": "S4 7UQ",
+    "Easting": 436904.0,
+    "Northing": 388761.0
+  },
+  {
+    "Name": "CHIPPINGHAM MOTORS",
+    "Address": "CLIFTON HOUSE, PRINCESS STREET, SHEFFIELD",
+    "Postcode": "S4 7UU",
+    "Easting": 436904.0,
+    "Northing": 388465.0
+  },
+  {
+    "Name": "BRISTOL STREET MOTORS",
+    "Address": "ATTERCLIFFE ROAD, SHEFFIELD",
+    "Postcode": "S4 7WW",
+    "Easting": 436514.0,
+    "Northing": 388290.0
+  },
+  {
+    "Name": "S.C.C",
+    "Address": "203 ATTERCLIFFE ROAD, SHEFFIELD",
+    "Postcode": "S4 7XF",
+    "Easting": 436893.0,
+    "Northing": 388339.0
+  },
+  {
+    "Name": "UPWELL STREET TYRE AND AUTO CENTRE",
+    "Address": "46 UPWELL STREET, GRIMESTHORPE, SHEFFIELD",
+    "Postcode": "S4 8AJ",
+    "Easting": 437556.0,
+    "Northing": 390149.0
+  },
+  {
+    "Name": "SAVOY TYRES LIMITED",
+    "Address": "UPWELL STREET, SHEFFIELD",
+    "Postcode": "S4 8AJ",
+    "Easting": 437556.0,
+    "Northing": 390149.0
+  },
+  {
+    "Name": "CINEMA MOT CENTRE LIMITED",
+    "Address": "THE GABLES, HOLYWELL ROAD, SHEFFIELD",
+    "Postcode": "S4 8AR",
+    "Easting": 437805.0,
+    "Northing": 390184.0
+  },
+  {
+    "Name": "MB SERVICES YORKSHIRE LIMITED",
+    "Address": "THE GABLES, HOLYWELL ROAD, SHEFFIELD",
+    "Postcode": "S4 8AR",
+    "Easting": 437805.0,
+    "Northing": 390184.0
+  },
+  {
+    "Name": "MEADOWHALL MOTORS",
+    "Address": "88 HOLYWELL ROAD, SHEFFIELD",
+    "Postcode": "S4 8AS",
+    "Easting": 437978.0,
+    "Northing": 390322.0
+  },
+  {
+    "Name": "JUST TEST AUTOS",
+    "Address": "84 HOLYWELL ROAD, SHEFFIELD",
+    "Postcode": "S4 8AS",
+    "Easting": 437978.0,
+    "Northing": 390322.0
   },
   {
     "Name": "JUST CARS CHESTERFIELD LTD",
@@ -114674,6 +117124,237 @@
     "Northing": 363839.0
   },
   {
+    "Name": "VOLKSGEAR",
+    "Address": "538 ECCLESFIELD ROAD, SHEFFIELD",
+    "Postcode": "S5 0DJ",
+    "Easting": 436875.0,
+    "Northing": 393614.0
+  },
+  {
+    "Name": "TRADE DIRECT",
+    "Address": "65 DEEP LANE, ECCLESFIELD, SHEFFIELD",
+    "Postcode": "S5 0DU",
+    "Easting": 437472.0,
+    "Northing": 393527.0
+  },
+  {
+    "Name": "AUTO TECH",
+    "Address": "977 BARNSLEY ROAD, SHEFFIELD",
+    "Postcode": "S5 0QP",
+    "Easting": 436110.0,
+    "Northing": 392544.0
+  },
+  {
+    "Name": "SHIREGREEN SERVICE STATION",
+    "Address": "SICEY AVENUE, SHEFFIELD",
+    "Postcode": "S5 0RN",
+    "Easting": 436809.0,
+    "Northing": 392304.0
+  },
+  {
+    "Name": "SWIFT FIT AUTO CENTRE",
+    "Address": "25 HATFIELD HOUSE LANE, SHEFFIELD",
+    "Postcode": "S5 6HU",
+    "Easting": 436414.0,
+    "Northing": 391854.0
+  },
+  {
+    "Name": "FIRTH PARK CAR CLINIC LIMITED",
+    "Address": "SICEY AVENUE, SHEFFIELD",
+    "Postcode": "S5 6NN",
+    "Easting": 436837.0,
+    "Northing": 391803.0
+  },
+  {
+    "Name": "CINEMA MOT CENTRE",
+    "Address": "52 GODDARD HALL ROAD, SHEFFIELD",
+    "Postcode": "S5 7AP",
+    "Easting": 436221.0,
+    "Northing": 390159.0
+  },
+  {
+    "Name": "FIRVALE MOTORISTS CENTRE",
+    "Address": "77 HERRIES ROAD, FIRVALE, SHEFFIELD",
+    "Postcode": "S5 7AS",
+    "Easting": 436229.0,
+    "Northing": 390200.0
+  },
+  {
+    "Name": "FOXHILL SERVICE CENTRE",
+    "Address": "FOXHILL ROAD, SHEFFIELD",
+    "Postcode": "S6 1HD",
+    "Easting": 433412.0,
+    "Northing": 391894.0
+  },
+  {
+    "Name": "MARTIN LEE CAR SALES",
+    "Address": "UNITS 1 & 2 WORKSHOPS, JUBILEE HOUSE, CLAYWHEELS LANE, SHEFFIELD",
+    "Postcode": "S6 1LZ",
+    "Easting": 432901.0,
+    "Northing": 391372.0
+  },
+  {
+    "Name": "MALIN MOTOR BODIES LIMITED",
+    "Address": "UNIT 1, NUTWOOD TRADING ESTATE, LIMESTONE COTTAGE LANE, SHEFFIELD",
+    "Postcode": "S6 1NJ",
+    "Easting": 432689.0,
+    "Northing": 392012.0
+  },
+  {
+    "Name": "FREEDOM GARAGE LIMITED",
+    "Address": "UNIT 40, NUTWOOD TRADING ESTATE, UNDER HILL LANE, SHEFFIELD",
+    "Postcode": "S6 1NL",
+    "Easting": 432558.0,
+    "Northing": 392183.0
+  },
+  {
+    "Name": "M AND B MOTORS",
+    "Address": "178 PENISTONE ROAD NORTH, SHEFFIELD",
+    "Postcode": "S6 1QA",
+    "Easting": 433322.0,
+    "Northing": 390858.0
+  },
+  {
+    "Name": "NATIONAL TYRES AND AUTOCARE",
+    "Address": "LEPPINGS LANE, SHEFFIELD",
+    "Postcode": "S6 1ST",
+    "Easting": 433142.0,
+    "Northing": 390891.0
+  },
+  {
+    "Name": "CENTURY MOTORS SHEFFIELD LIMITED",
+    "Address": "CATCH BAR LANE, MIDDLEWOOD ROAD, SHEFFIELD",
+    "Postcode": "S6 1TA",
+    "Easting": 433080.0,
+    "Northing": 390635.0
+  },
+  {
+    "Name": "SEAT SHEFFIELD",
+    "Address": "296 MIDDLEWOOD ROAD, SHEFFIELD",
+    "Postcode": "S6 1TF",
+    "Easting": 432871.0,
+    "Northing": 390830.0
+  },
+  {
+    "Name": "MR CLUTCH AUTOCENTRES LIMITED",
+    "Address": "UNIT 2A, TANFIELD ROAD, HILLSBOROUGH, SHEFFIELD",
+    "Postcode": "S6 2AF",
+    "Easting": 433556.0,
+    "Northing": 390390.0
+  },
+  {
+    "Name": "HALFORDS AUTOCENTRE",
+    "Address": "BRADFIELD ROAD, HILLSBOROUGH, SHEFFIELD",
+    "Postcode": "S6 2BZ",
+    "Easting": 433416.0,
+    "Northing": 389796.0
+  },
+  {
+    "Name": "KWIK - FIT",
+    "Address": "900 PENISTONE ROAD, SHEFFIELD",
+    "Postcode": "S6 2DD",
+    "Easting": 433538.0,
+    "Northing": 390085.0
+  },
+  {
+    "Name": "MOTOR MATES",
+    "Address": "UNIT 2, 182-198 PENISTONE ROAD, SHEFFIELD",
+    "Postcode": "S6 2FJ",
+    "Easting": 434170.0,
+    "Northing": 389089.0
+  },
+  {
+    "Name": "BURROWS MAZDA",
+    "Address": "405-431 PENISTONE ROAD, SHEFFIELD",
+    "Postcode": "S6 2FL",
+    "Easting": 434091.0,
+    "Northing": 389146.0
+  },
+  {
+    "Name": "BURROWS TOYOTA",
+    "Address": "260 PENISTONE ROAD, SHEFFIELD",
+    "Postcode": "S6 2FQ",
+    "Easting": 434126.0,
+    "Northing": 389375.0
+  },
+  {
+    "Name": "413 MOTORCYCLE MOT",
+    "Address": "UNIT 2, 298 PENISTONE ROAD, SHEFFIELD",
+    "Postcode": "S6 2FU",
+    "Easting": 433981.0,
+    "Northing": 389526.0
+  },
+  {
+    "Name": "STONEACRE SHEFFIELD",
+    "Address": "290 PENISTONE ROAD, SHEFFIELD",
+    "Postcode": "S6 2FU",
+    "Easting": 433981.0,
+    "Northing": 389526.0
+  },
+  {
+    "Name": "EVANS HALSHAW",
+    "Address": "608 PENISTONE ROAD, SHEFFIELD",
+    "Postcode": "S6 2FZ",
+    "Easting": 433768.0,
+    "Northing": 389776.0
+  },
+  {
+    "Name": "HUGHES AND BRIDDOCK",
+    "Address": "49 BURTON STREET, SHEFFIELD",
+    "Postcode": "S6 2HH",
+    "Easting": 433807.0,
+    "Northing": 389396.0
+  },
+  {
+    "Name": "BURTON STREET MOTORS",
+    "Address": "43 BURTON STREET, HILLSBOROUGH, SHEFFIELD",
+    "Postcode": "S6 2HH",
+    "Easting": 433807.0,
+    "Northing": 389396.0
+  },
+  {
+    "Name": "A M AUTOS",
+    "Address": "BALACLAVA ROAD, SHEFFIELD",
+    "Postcode": "S6 3BG",
+    "Easting": 434292.0,
+    "Northing": 388659.0
+  },
+  {
+    "Name": "BICKERTON GARAGE LIMITED",
+    "Address": "1 GILPIN STREET, PENISTONE ROAD, SHEFFIELD",
+    "Postcode": "S6 3BL",
+    "Easting": 434411.0,
+    "Northing": 388530.0
+  },
+  {
+    "Name": "LEADER ROAD GARAGE",
+    "Address": "78 LEADER ROAD, HILLSBOROUGH, SHEFFIELD",
+    "Postcode": "S6 4GH",
+    "Easting": 432919.0,
+    "Northing": 390062.0
+  },
+  {
+    "Name": "HAWLEYS TYRE SERVICES",
+    "Address": "UNIT 1, REAR OF 51-69 HOLME LANE, HILLSBOROUGH, SHEFFIELD",
+    "Postcode": "S6 4JP",
+    "Easting": 433173.0,
+    "Northing": 389573.0
+  },
+  {
+    "Name": "HUTCHINSONS MOTORS LIMITED",
+    "Address": "202 HOLME LANE, SHEFFIELD",
+    "Postcode": "S6 4JZ",
+    "Easting": 432661.0,
+    "Northing": 389366.0
+  },
+  {
+    "Name": "HIGH BANK SERVICE STATION",
+    "Address": "WISEWOOD LANE, SHEFFIELD",
+    "Postcode": "S6 4WA",
+    "Easting": 432301.0,
+    "Northing": 389556.0
+  },
+  {
     "Name": "MICHAEL GEORGE COMMERCIALS LIMITED",
     "Address": "WESTGATE GARAGE, WESTGATE, ROTHERHAM",
     "Postcode": "S60 1BD",
@@ -115290,6 +117971,27 @@
     "Northing": 388858.0
   },
   {
+    "Name": "ABBEYDALE MOT CENTRE",
+    "Address": "449 ABBEYDALE ROAD, SHEFFIELD",
+    "Postcode": "S7 1FS",
+    "Easting": 434749.0,
+    "Northing": 384920.0
+  },
+  {
+    "Name": "EDGEDALE SERVICE STATION",
+    "Address": "665 ABBEYDALE ROAD, SHEFFIELD",
+    "Postcode": "S7 1TB",
+    "Easting": 434419.0,
+    "Northing": 384489.0
+  },
+  {
+    "Name": "CAVENDISH MOTOR COMPANY",
+    "Address": "2 EDGEDALE ROAD, SHEFFIELD",
+    "Postcode": "S7 2BQ",
+    "Easting": 434183.0,
+    "Northing": 384312.0
+  },
+  {
     "Name": "SERVICE PLUS AUTOCENTRE",
     "Address": "UNITS 1 AND 2, 20A RACECOMMON ROAD, BARNSLEY",
     "Postcode": "S70 1BH",
@@ -115801,6 +118503,125 @@
     "Northing": 410025.0
   },
   {
+    "Name": "ARCHER ROAD MOT CENTRE",
+    "Address": "CHESSMANS HOUSE, 2 ARCHER ROAD, SHEFFIELD",
+    "Postcode": "S8 0JR",
+    "Easting": 434151.0,
+    "Northing": 383786.0
+  },
+  {
+    "Name": "STONEACRE SHEFFIELD",
+    "Address": "185 ARCHER ROAD, SHEFFIELD",
+    "Postcode": "S8 0JX",
+    "Easting": 434191.0,
+    "Northing": 383510.0
+  },
+  {
+    "Name": "MILLHOUSES PARK GARAGE LIMITED",
+    "Address": "300 ARCHER ROAD, SHEFFIELD",
+    "Postcode": "S8 0LA",
+    "Easting": 433654.0,
+    "Northing": 383304.0
+  },
+  {
+    "Name": "FORMULA ONE AUTOCENTRES LIMITED",
+    "Address": "918-920 CHESTERFIELD ROAD, SHEFFIELD",
+    "Postcode": "S8 0SH",
+    "Easting": 434703.0,
+    "Northing": 382686.0
+  },
+  {
+    "Name": "SMITHS AUTO SERVICES LIMITED",
+    "Address": "LITTLE LONDON ROAD, SHEFFIELD",
+    "Postcode": "S8 0UH",
+    "Easting": 434522.0,
+    "Northing": 384337.0
+  },
+  {
+    "Name": "PLM AUTOCENTRE LIMITED",
+    "Address": "1-5 RYDAL ROAD, SHEFFIELD",
+    "Postcode": "S8 0UR",
+    "Easting": 434382.0,
+    "Northing": 384143.0
+  },
+  {
+    "Name": "RED LION GARAGE",
+    "Address": "RED LION GARAGE, 32-36 BROADFIELD ROAD, SHEFFIELD",
+    "Postcode": "S8 0XJ",
+    "Easting": 435063.0,
+    "Northing": 385184.0
+  },
+  {
+    "Name": "THE MOT CENTRE",
+    "Address": "BROADFIELD ROAD, HEELEY, SHEFFIELD",
+    "Postcode": "S8 0XL",
+    "Easting": 434947.0,
+    "Northing": 385091.0
+  },
+  {
+    "Name": "WAGGON AND HORSES GARAGE",
+    "Address": "186 MEADOWHEAD, SHEFFIELD",
+    "Postcode": "S8 7UG",
+    "Easting": 434823.0,
+    "Northing": 381898.0
+  },
+  {
+    "Name": "VOLKSWAGEN SHEFFIELD",
+    "Address": "2 DYCHE LANE, BOCHUM PARKWAY, SHEFFIELD",
+    "Postcode": "S8 8BR",
+    "Easting": 435430.0,
+    "Northing": 381175.0
+  },
+  {
+    "Name": "SHEFFIELD AUDI",
+    "Address": "2 DYCHE LANE, BOCHUM PARKWAY, SHEFFIELD",
+    "Postcode": "S8 8BR",
+    "Easting": 435430.0,
+    "Northing": 381175.0
+  },
+  {
+    "Name": "HARVEY CLOUGH GARAGE",
+    "Address": "64 HARVEY CLOUGH ROAD, SHEFFIELD",
+    "Postcode": "S8 8PE",
+    "Easting": 435391.0,
+    "Northing": 383104.0
+  },
+  {
+    "Name": "BARTRAM MOTORS LTD",
+    "Address": "31 OLIVET ROAD, WOODSEATS, SHEFFIELD",
+    "Postcode": "S8 8QR",
+    "Easting": 434964.0,
+    "Northing": 383048.0
+  },
+  {
+    "Name": "DERBYSHIRE LANE SERVICE STATION LIMITED",
+    "Address": "230/246 DERBYSHIRE LANE, SHEFFIELD",
+    "Postcode": "S8 8SE",
+    "Easting": 435197.0,
+    "Northing": 383336.0
+  },
+  {
+    "Name": "VALLEY ROAD MOT AND SERVICE CENTRE",
+    "Address": "101 VALLEY ROAD, SHEFFIELD",
+    "Postcode": "S8 9FX",
+    "Easting": 435273.0,
+    "Northing": 384455.0
+  },
+  {
+    "Name": "MEERSBROOK SERVICE STATION",
+    "Address": "1-7 MEERSBROOK ROAD, SHEFFIELD",
+    "Postcode": "S8 9HU",
+    "Easting": 435935.0,
+    "Northing": 384446.0
+  },
+  {
+    "Name": "G W STEVENS",
+    "Address": "19 THIRLWELL ROAD, SHEFFIELD",
+    "Postcode": "S8 9TE",
+    "Easting": 435115.0,
+    "Northing": 384866.0
+  },
+  {
     "Name": "NATIONAL TYRES AND AUTOCARE",
     "Address": "58A GATEFORD ROAD, WORKSOP",
     "Postcode": "S80 1EB",
@@ -116065,6 +118886,202 @@
     "Postcode": "S81 9QH",
     "Easting": 458740.0,
     "Northing": 387118.0
+  },
+  {
+    "Name": "JOHN HOLLAND",
+    "Address": "MEADOWHALL RIVERSIDE, MEADOWHALL ROAD, SHEFFIELD",
+    "Postcode": "S9 1BW",
+    "Easting": 438929.0,
+    "Northing": 391043.0
+  },
+  {
+    "Name": "AUTOTECNIC LIMITED",
+    "Address": "UNIT 12 MEADOWHALL INDUSTRIAL ESTATE, AMOS ROAD, MEADOWHALL, SHEFFIELD",
+    "Postcode": "S9 1BX",
+    "Easting": 438710.0,
+    "Northing": 390796.0
+  },
+  {
+    "Name": "J M MOTORS",
+    "Address": "MOT TEST CENTRE, TYLER STREET, SHEFFIELD",
+    "Postcode": "S9 1DH",
+    "Easting": 438702.0,
+    "Northing": 390990.0
+  },
+  {
+    "Name": "ROMAN RIDGE MOTORS",
+    "Address": "UNIT 3, ROMAN RIDGE INDUSTRIAL ESTATE, ROMAN RIDGE ROAD, SHEFFIELD",
+    "Postcode": "S9 1GB",
+    "Easting": 438779.0,
+    "Northing": 391324.0
+  },
+  {
+    "Name": "TINSLEY MOT CENTRE",
+    "Address": "45 BAWTRY ROAD, SHEFFIELD",
+    "Postcode": "S9 1UA",
+    "Easting": 440104.0,
+    "Northing": 390870.0
+  },
+  {
+    "Name": "RODDISONS TEST CENTRE",
+    "Address": "SHEPCOTE LANE, SHEFFIELD",
+    "Postcode": "S9 1US",
+    "Easting": 439755.0,
+    "Northing": 390648.0
+  },
+  {
+    "Name": "VOLKSWAGEN VAN CENTRE SHEFFIELD",
+    "Address": "EUROPA CLOSE, EUROPA LINK, SHEFFIELD",
+    "Postcode": "S9 1XS",
+    "Easting": 439521.0,
+    "Northing": 389261.0
+  },
+  {
+    "Name": "YORKSHIRE AMBULANCE SERVICE NHS TRUST",
+    "Address": "EUROPA CLOSE, SHEFFIELD",
+    "Postcode": "S9 1XS",
+    "Easting": 439521.0,
+    "Northing": 389261.0
+  },
+  {
+    "Name": "DS AUTOMOBILES LIMITED",
+    "Address": "17-31  ATTERCLIFFE COMMON, LOWER DON VALLEY, SHEFFIELD",
+    "Postcode": "S9 2AE",
+    "Easting": 438185.0,
+    "Northing": 389203.0
+  },
+  {
+    "Name": "ACLIFFE GARAGE",
+    "Address": "372 ATTERCLIFFE COMMON, ATTERCLIFFE, SHEFFIELD",
+    "Postcode": "S9 2BT",
+    "Easting": 438754.0,
+    "Northing": 389768.0
+  },
+  {
+    "Name": "MERCEDES BENZ OF SHEFFIELD",
+    "Address": "SHEFFIELD ROAD, MEADOWHALL, SHEFFIELD",
+    "Postcode": "S9 2FZ",
+    "Easting": 439332.0,
+    "Northing": 390411.0
+  },
+  {
+    "Name": "PORSCHE CENTRE SHEFFIELD",
+    "Address": "SHEFFIELD ROAD, MEADOWHALL, SHEFFIELD",
+    "Postcode": "S9 2FZ",
+    "Easting": 439332.0,
+    "Northing": 390411.0
+  },
+  {
+    "Name": "NORTHSIDE TRUCK AND VAN LIMITED",
+    "Address": "AMBERLEY STREET, ATTERCLIFFE COMMON, SHEFFIELD",
+    "Postcode": "S9 2LU",
+    "Easting": 438349.0,
+    "Northing": 389527.0
+  },
+  {
+    "Name": "AA MOT LIMITED",
+    "Address": "UNIT 1, 43 CLAY STREET, SHEFFIELD",
+    "Postcode": "S9 2PF",
+    "Easting": 438010.0,
+    "Northing": 389101.0
+  },
+  {
+    "Name": "G W PEARCE AND SONS",
+    "Address": "113 LIVERPOOL STREET, ATTERCLIFFE, SHEFFIELD",
+    "Postcode": "S9 2PU",
+    "Easting": 438048.0,
+    "Northing": 389393.0
+  },
+  {
+    "Name": "AFP VAN HIRE AND SALES LIMITED",
+    "Address": "346 BRIGHTSIDE LANE, SHEFFIELD",
+    "Postcode": "S9 2SP",
+    "Easting": 437549.0,
+    "Northing": 389366.0
+  },
+  {
+    "Name": "CITY OF SHEFFIELD",
+    "Address": "CENTRAL TRANSPORT, STANIFORTH ROAD, SHEFFIELD",
+    "Postcode": "S9 3HD",
+    "Easting": 437874.0,
+    "Northing": 388387.0
+  },
+  {
+    "Name": "DEXEL TYRE COMPANY LIMITED",
+    "Address": "128-144 STANIFORTH ROAD, SHEFFIELD",
+    "Postcode": "S9 3JQ",
+    "Easting": 437929.0,
+    "Northing": 388332.0
+  },
+  {
+    "Name": "MALTINGS GARAGE",
+    "Address": "UNIT 2, WHARF WORKS, CHIPPINGHAM STREET, SHEFFIELD",
+    "Postcode": "S9 3SE",
+    "Easting": 438232.0,
+    "Northing": 388646.0
+  },
+  {
+    "Name": "DON VALLEY MOT CENTRE",
+    "Address": "228 CHIPPINGHAM STREET, SHEFFIELD",
+    "Postcode": "S9 3SE",
+    "Easting": 438232.0,
+    "Northing": 388646.0
+  },
+  {
+    "Name": "PENTAGON VAUXHALL SHEFFIELD (PARKWAY)",
+    "Address": "CITY PARKWAY, PARKWAY AVENUE, PARKWAY INDUSTRIAL ESTATE, SHEFFIELD",
+    "Postcode": "S9 4WA",
+    "Easting": 438079.0,
+    "Northing": 387462.0
+  },
+  {
+    "Name": "PARKWAY TESTING",
+    "Address": "1A PARKWAY AVENUE, SHEFFIELD",
+    "Postcode": "S9 4WA",
+    "Easting": 438079.0,
+    "Northing": 387462.0
+  },
+  {
+    "Name": "BT FLEET LIMITED",
+    "Address": "PARKWAY CLOSE, PARKWAY TRADING ESTATE, SHEFFIELD",
+    "Postcode": "S9 4WJ",
+    "Easting": 437852.0,
+    "Northing": 387472.0
+  },
+  {
+    "Name": "C C MOTORS",
+    "Address": "UNIT 4, DANNEMORA DRIVE, DARNALL, SHEFFIELD",
+    "Postcode": "S9 5DF",
+    "Easting": 439182.0,
+    "Northing": 389084.0
+  },
+  {
+    "Name": "D S MOTORS",
+    "Address": "32-34 CENTURY STREET, ATTERCLIFFE, SHEFFIELD",
+    "Postcode": "S9 5DX",
+    "Easting": 438726.0,
+    "Northing": 388920.0
+  },
+  {
+    "Name": "AUTOHAUS DOLBY LIMITED",
+    "Address": "SHEAF VALLEY HOUSE, BARLEYWOOD ROAD, SHEFFIELD",
+    "Postcode": "S9 5FJ",
+    "Easting": 439392.0,
+    "Northing": 388625.0
+  },
+  {
+    "Name": "CATLEY GARAGE LIMITED",
+    "Address": "CATLEY ROAD, SHEFFIELD",
+    "Postcode": "S9 5JF",
+    "Easting": 439700.0,
+    "Northing": 388176.0
+  },
+  {
+    "Name": "KWIK-FIT",
+    "Address": "GREENLAND ROAD, SHEFFIELD",
+    "Postcode": "S9 5JF",
+    "Easting": 439700.0,
+    "Northing": 388176.0
   },
   {
     "Name": "D J AUTOS (SWANSEA) LTD",
@@ -141804,6 +144821,293 @@
     "Postcode": "W14 9PB",
     "Easting": 524724.0,
     "Northing": 177817.0
+  },
+  {
+    "Name": "THE JAG WORKSHOP",
+    "Address": "7 KENDAL COURT, KENDAL AVENUE, WEST ACTON",
+    "Postcode": "W3 0RU",
+    "Easting": 519447.0,
+    "Northing": 181892.0
+  },
+  {
+    "Name": "RENAULT-NISSAN LONDON WEST",
+    "Address": "RENAULT RETAIL GROUP, WESTERN AVENUE, LONDON",
+    "Postcode": "W3 0RZ",
+    "Easting": 519656.0,
+    "Northing": 182147.0
+  },
+  {
+    "Name": "JAGUAR LAND ROVER WEST LONDON",
+    "Address": "3 CONCORD WAY, ACTON, LONDON",
+    "Postcode": "W3 0TH",
+    "Easting": 519562.0,
+    "Northing": 181805.0
+  },
+  {
+    "Name": "BURLINGTON",
+    "Address": "52 BIRKBECK  ROAD, ACTON, LONDON",
+    "Postcode": "W3 6BQ",
+    "Easting": 520559.0,
+    "Northing": 180243.0
+  },
+  {
+    "Name": "AUTOHAUS (UK) LIMITED",
+    "Address": "82-86 CHURCHFIELD ROAD, ACTON",
+    "Postcode": "W3 6DH",
+    "Easting": 520255.0,
+    "Northing": 180264.0
+  },
+  {
+    "Name": "BUDGET TYRES SALES LIMITED",
+    "Address": "173 OLD OAK ROAD, ACTON, LONDON",
+    "Postcode": "W3 7HH",
+    "Easting": 521625.0,
+    "Northing": 180819.0
+  },
+  {
+    "Name": "MPR MOTORS LIMITED",
+    "Address": "279 THE VALE, ACTON, LONDON",
+    "Postcode": "W3 7QA",
+    "Easting": 520708.0,
+    "Northing": 180022.0
+  },
+  {
+    "Name": "KWIK-FIT",
+    "Address": "231 THE VALE, ACTON, LONDON",
+    "Postcode": "W3 7QE",
+    "Easting": 521023.0,
+    "Northing": 179916.0
+  },
+  {
+    "Name": "WEST LONDON BIKES AND SCOOTERS",
+    "Address": "12 & 14 THE VALE, ACTON, LONDON",
+    "Postcode": "W3 7SB",
+    "Easting": 521849.0,
+    "Northing": 180127.0
+  },
+  {
+    "Name": "OCTANE CARS",
+    "Address": "UNIT 8 COWLEY ROAD, ACTON, LONDON",
+    "Postcode": "W3 7XA",
+    "Easting": 521584.0,
+    "Northing": 179991.0
+  },
+  {
+    "Name": "ACTON CAR CARE LIMITED",
+    "Address": "UNIT 8, 11 COLVILLE ROAD, ACTON, LONDON",
+    "Postcode": "W3 8BL",
+    "Easting": 519944.0,
+    "Northing": 179254.0
+  },
+  {
+    "Name": "SWAN AUTOS",
+    "Address": "UNIT 6 & 7, 11 COLVILLE ROAD, ACTON, LONDON",
+    "Postcode": "W3 8BL",
+    "Easting": 519944.0,
+    "Northing": 179254.0
+  },
+  {
+    "Name": "ACTON SERVICE CENTRE LIMITED",
+    "Address": "17/18 THE BROADWAY, GUNNERSBURY LANE, ACTON, LONDON",
+    "Postcode": "W3 8HP",
+    "Easting": 519374.0,
+    "Northing": 179547.0
+  },
+  {
+    "Name": "MR CLUTCH AUTOCENTRE",
+    "Address": "MURTEX  HOUSE, BOLLO LANE, ACTON, LONDON",
+    "Postcode": "W3 8QU",
+    "Easting": 519548.0,
+    "Northing": 179536.0
+  },
+  {
+    "Name": "AUTOCAR CENTRE TYRES",
+    "Address": "LIBERTY WORKS, BOLLO LANE, ACTON",
+    "Postcode": "W3 8QU",
+    "Easting": 519548.0,
+    "Northing": 179536.0
+  },
+  {
+    "Name": "CAPITAL MOTOR COMPANY",
+    "Address": "1 PRINCE OF WALES TERRACE, CHISWICK, LONDON",
+    "Postcode": "W4 2EY",
+    "Easting": 521122.0,
+    "Northing": 178450.0
+  },
+  {
+    "Name": "PORSCHE RETAIL GROUP LIMITED",
+    "Address": "22 Sutton Lane North, Chiswick",
+    "Postcode": "W4 4LD",
+    "Easting": 520197.0,
+    "Northing": 178094.0
+  },
+  {
+    "Name": "IVERSON TYRES LIMITED",
+    "Address": "129 POWER ROAD, CHISWICK, LONDON",
+    "Postcode": "W4 5PY",
+    "Easting": 519504.0,
+    "Northing": 178601.0
+  },
+  {
+    "Name": "VOLVO CARS WEST LONDON",
+    "Address": "115 POWER ROAD, CHISWICK, LONDON",
+    "Postcode": "W4 5PY",
+    "Easting": 519504.0,
+    "Northing": 178601.0
+  },
+  {
+    "Name": "CHISWICK HONDA",
+    "Address": "4 POWER ROAD, CHISWICK, LONDON",
+    "Postcode": "W4 5YT",
+    "Easting": 519528.0,
+    "Northing": 178469.0
+  },
+  {
+    "Name": "BT FLEET LTD",
+    "Address": "FLEET PARTNERS, 96 QUEENS DRIVE, EALING, LONDON",
+    "Postcode": "W5 3HY",
+    "Easting": 518735.0,
+    "Northing": 181139.0
+  },
+  {
+    "Name": "BIG JIMS MOTORCYCLES",
+    "Address": "6B FLORENCE ROAD, EALING, LONDON",
+    "Postcode": "W5 3TX",
+    "Easting": 518161.0,
+    "Northing": 180682.0
+  },
+  {
+    "Name": "BILL BUNN MOTORCYCLES LTD",
+    "Address": "194 SOUTH EALING ROAD, EALING, LONDON",
+    "Postcode": "W5 4RJ",
+    "Easting": 517697.0,
+    "Northing": 178937.0
+  },
+  {
+    "Name": "SURI MOTORS LIMITED",
+    "Address": "50A OVERDALE ROAD, EALING, LONDON",
+    "Postcode": "W5 4TT",
+    "Easting": 517221.0,
+    "Northing": 179286.0
+  },
+  {
+    "Name": "GALENA GARAGE",
+    "Address": "GLENTHORNE ROAD, HAMMERSMITH, LONDON",
+    "Postcode": "W6 0LX",
+    "Easting": 522772.0,
+    "Northing": 178681.0
+  },
+  {
+    "Name": "WEST 6 AUTO CENTRE LIMITED",
+    "Address": "80/81 GALENA ROAD, HAMMERSMITH, LONDON",
+    "Postcode": "W6 0LX",
+    "Easting": 522772.0,
+    "Northing": 178681.0
+  },
+  {
+    "Name": "J M J MOTORS",
+    "Address": "88 STUDLAND STREET, HAMMERSMITH, LONDON",
+    "Postcode": "W6 0LZ",
+    "Easting": 522657.0,
+    "Northing": 178722.0
+  },
+  {
+    "Name": "XAVIER AUTO CLINIC",
+    "Address": "166 STAMFORD BROOK ARCHES, HAMMERSMITH, LONDON",
+    "Postcode": "W6 0TQ",
+    "Easting": 522215.0,
+    "Northing": 178797.0
+  },
+  {
+    "Name": "AUTOSTRADA ENGINEERING",
+    "Address": "99/100 THE ARCHES, RAVENSCOURT PLACE, HAMMERSMITH, LONDON",
+    "Postcode": "W6 0UN",
+    "Easting": 522553.0,
+    "Northing": 178677.0
+  },
+  {
+    "Name": "KWIK - FIT",
+    "Address": "332 - 336 GOLDHAWK ROAD, HAMMERSMITH",
+    "Postcode": "W6 0XF",
+    "Easting": 521971.0,
+    "Northing": 179053.0
+  },
+  {
+    "Name": "COLLINS MOTORS",
+    "Address": "232 TRUSSLEY ROAD, HAMMERSMITH",
+    "Postcode": "W6 7PS",
+    "Easting": 523183.0,
+    "Northing": 179168.0
+  },
+  {
+    "Name": "BOSTON MANOR SERVICE STATION",
+    "Address": "312 BOSTON ROAD, HANWELL, LONDON",
+    "Postcode": "W7 2AR",
+    "Easting": 516321.0,
+    "Northing": 178810.0
+  },
+  {
+    "Name": "HUMES AVENUE GARAGE LIMITED",
+    "Address": "17/19 HUMES AVENUE, HANWELL",
+    "Postcode": "W7 2LJ",
+    "Easting": 515565.0,
+    "Northing": 179551.0
+  },
+  {
+    "Name": "MERK 1",
+    "Address": "UNIT 1 - 3 BOSTON BUSINESS PARK, TRUMPERS WAY, HANWELL, LONDON",
+    "Postcode": "W7 2QA",
+    "Easting": 515425.0,
+    "Northing": 179197.0
+  },
+  {
+    "Name": "KUNDI MOTORS LTD",
+    "Address": "173 BOSTON ROAD, HANWELL, LONDON",
+    "Postcode": "W7 3QJ",
+    "Easting": 515746.0,
+    "Northing": 179700.0
+  },
+  {
+    "Name": "IVERSON TYRES LIMITED",
+    "Address": "161 BOSTON ROAD, HANWELL, LONDON",
+    "Postcode": "W7 3QL",
+    "Easting": 515712.0,
+    "Northing": 179731.0
+  },
+  {
+    "Name": "WEST WAY NISSAN HANWELL",
+    "Address": "117 BOSTON ROAD, HANWELL, LONDON",
+    "Postcode": "W7 3SB",
+    "Easting": 515584.0,
+    "Northing": 179856.0
+  },
+  {
+    "Name": "G M MOTORSERVE LIMITED",
+    "Address": "11A BOSTON ROAD, HANWELL, LONDON",
+    "Postcode": "W7 3SJ",
+    "Easting": 515460.0,
+    "Northing": 180127.0
+  },
+  {
+    "Name": "GRAYS TYRE SERVICES",
+    "Address": "162-168 UXBRIDGE ROAD, HANWELL, LONDON",
+    "Postcode": "W7 3TB",
+    "Easting": 515234.0,
+    "Northing": 180117.0
+  },
+  {
+    "Name": "HANWELL MOTORS",
+    "Address": "R/O 165 UXBRIDGE ROAD, HANWELL",
+    "Postcode": "W7 3TH",
+    "Easting": 515299.0,
+    "Northing": 180166.0
+  },
+  {
+    "Name": "SMITH & HUNTER LTD",
+    "Address": "17-19 EDGE STREET, KENSINGTON CHURCH STREET, LONDON",
+    "Postcode": "W8 7PN",
+    "Easting": 525290.0,
+    "Northing": 180283.0
   },
   {
     "Name": "THELWALL MOTORS LIMITED",
