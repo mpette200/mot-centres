@@ -39,7 +39,7 @@ var showStations = function() {
 
 var findStations = function() {
   if (pcd.coords != pcd.ERR_MSG) {
-    txt_out.value = `${pcd.coords.east}, ${pcd.coords.north}`;
+    txt_out.value = pcd.coords.east + ', ' + pcd.coords.north;
     getMotStations(pcd.coords, showStations);
   }
   else {
