@@ -9,6 +9,7 @@ output format is a json as list of records
 where postcode not found in dictionary store in separate
 csv of problem postcodes
 '''
+import csv
 import json
 import io
 
@@ -72,8 +73,10 @@ def parse_line(lines, arr_out, errors_out):
                 address += part + ', '
         return address[:-2]
 
-    for line in lines:
-        fields = line.split(',')
+    all_lines = list(lines)
+    csvreader = csv.reader(all_lines)
+
+    for fields in csvreader:
         name = fields[1]
         address = join_address(fields[2:6])
         postcode = fields[6]
@@ -84,7 +87,8 @@ def parse_line(lines, arr_out, errors_out):
         postcode = postcode[:-3] + ' ' + postcode[-3:]
 
         if postcode not in get_coords:
-            errors_out.write(line)
+            cur_line = all_lines[csvreader.line_num - 1]
+            errors_out.write(cur_line)
             continue
 
         easting, northing = get_coords[postcode]
